@@ -27,12 +27,14 @@ jobs:
         with:
           node-version: 22
           cache: npm
+          cache-dependency-path: deploy/package-lock.json
       - name: Install frontend dependencies
+        working-directory: deploy
         run: npm ci
       - name: Build deploy artifact
-        run: python3 scripts/build_deploy.py
+        run: python3 .github/skills/deploy/scripts/build_deploy.py
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: deploy
+          path: .build/deploy
       - id: deployment
         uses: actions/deploy-pages@v4

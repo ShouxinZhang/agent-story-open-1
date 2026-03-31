@@ -4,11 +4,11 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   root: 'app',
-  publicDir: path.resolve(__dirname, 'public'),
+  publicDir: path.resolve(__dirname, '.build/public'),
   base: '/agent-story-open-1/',
   plugins: [react()],
   build: {
-    outDir: path.resolve(__dirname, 'deploy'),
+    outDir: path.resolve(__dirname, '../.build/deploy'),
     emptyOutDir: true,
     rollupOptions: {
       output: {

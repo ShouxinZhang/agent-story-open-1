@@ -7,9 +7,10 @@ import subprocess
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parents[1]
-DEPLOY_DIR = ROOT / "deploy"
-PUBLIC_DIR = ROOT / "public"
+ROOT = Path(__file__).resolve().parents[4]
+DEPLOY_MODULE_DIR = ROOT / "deploy"
+DEPLOY_OUTPUT_DIR = ROOT / ".build" / "deploy"
+PUBLIC_DIR = DEPLOY_MODULE_DIR / ".build" / "public"
 PUBLIC_CHAPTER_DIR = PUBLIC_DIR / "chapters"
 PUBLIC_MANIFEST = PUBLIC_DIR / "chapters.json"
 CHAPTER_PATTERN = re.compile(r"^\d+\.md$")
@@ -37,13 +38,16 @@ def clear_generated_chapters() -> None:
         if path.stem.isdigit():
             path.unlink()
 
+    if PUBLIC_MANIFEST.exists():
+        PUBLIC_MANIFEST.unlink()
+
 
 def npm_command() -> str:
     return "npm.cmd" if os.name == "nt" else "npm"
 
 
 def build_frontend() -> None:
-    subprocess.run([npm_command(), "run", "build"], cwd=ROOT, check=True)
+    subprocess.run([npm_command(), "run", "build"], cwd=DEPLOY_MODULE_DIR, check=True)
 
 
 def build() -> None:
@@ -66,7 +70,7 @@ def build() -> None:
         json.dumps(chapters, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
-    DEPLOY_DIR.mkdir(parents=True, exist_ok=True)
+    DEPLOY_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     build_frontend()
 
 
