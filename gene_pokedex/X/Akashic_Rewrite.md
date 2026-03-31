@@ -1,38 +1,38 @@
-# Akashic Rewrite
+# 阿卡西重写
 
-## Rank
+## 等级
 X
 
-## Category
-Law Interference / Cosmic Editing
+## 分类
+法则干涉系 / 宇宙编辑
 
-## Overview
-Akashic Rewrite is a myth-grade X bloodline said to interact with the foundational "record" beneath matter, time, and identity. If verified, its bearer does not merely command phenomena but edits the rules that define them. Federation archives classify it as an existence-level taboo because even partial activation could revise star charts, erase causal chains, or replace the history of entire civilizations.
+## 概述
+阿卡西重写是一种神话级 X 血脉，据说能接触到物质、时间与身份之下的基础“记录层”。若它真实存在，其持有者并不只是支配现象，而是直接改写定义现象的规则。联邦档案把它列为存在层级禁忌，因为哪怕只是部分激活，也可能改写星图、抹去因果链，甚至重写整个文明的历史。
 
-## Signature Traits
-- Rewrites local laws governing matter, energy, direction, or causality.
-- Treats information, memory, and physical structure as editable layers of one substrate.
-- Ignores many conventional resistances because it alters the premise of the target rather than striking it.
-- Leaves behind reality scars that can persist long after the user departs.
+## 核心特征
+- 改写支配局部物质、能量、方向或因果的底层法则。
+- 将信息、记忆和物理结构视作同一底材上的可编辑层。
+- 不依赖常规打击，而是改写目标成立前提，因此可无视大量常规抗性。
+- 会在所经之处留下长期存在的现实疤痕。
 
-## Combat Use
-Akashic Rewrite is less a combat gene than a universal override. In confrontation, a bearer could invalidate incoming attacks by changing what impact means, turn sealed terrain into open pathways, or remove the continuity that holds an enemy technique together. In civilization-scale scenarios, it could redraw hyperspace lanes, repair broken ecologies, or catastrophically unmake both.
+## 战斗应用
+阿卡西重写与其说是战斗基因，不如说是通用覆写权。在对抗中，持有者可以通过改变“受击”的定义让攻击失效，把封闭地形改写成通路，或直接抹除敌方招式得以成立的连续性。在文明尺度上，它甚至能重绘超空间航道、修补崩坏生态，或者把两者同时毁掉。
 
-## Limitations
-- Reliable documentation does not exist; every record is fragmentary or politically censored.
-- Activation risks paradox recoil, including self-erasure or replacement by a revised version of the user.
-- Witnesses, instruments, and archives may retain contradictory memories of the same event.
-- No known containment protocol has been proven effective.
+## 局限性
+- 不存在可靠文献，所有记录都支离破碎或带有政治性删改。
+- 激活存在悖论反噬风险，包括自我抹除或被“修订版自己”替换。
+- 目击者、仪器与档案会对同一事件保留互相冲突的记忆。
+- 迄今没有任何已知收容协议被证明确实有效。
 
-## Awakening Cues
-- The surrounding environment "corrects" itself to match the user's spoken intent.
-- Historical records diverge after the user visits a site, with no clear cause.
-- Sensors repeatedly fail because constants no longer remain constant nearby.
-- The user experiences memories of lives or timelines that should not exist.
+## 觉醒征兆
+- 周围环境会自行“纠正”成与其口述意图一致的状态。
+- 使用者造访某地后，该地历史记录会无故发生分歧。
+- 传感器不断失效，因为附近常数已不再恒定。
+- 会出现本不该存在的人生或时间线记忆。
 
-## Common Progression
-- Lv.1: Minor local edits alter momentum, durability, or perception for brief moments.
-- Lv.2: The bearer can overwrite narrow rule sets within a room or combat zone.
-- Lv.3: Causal edits begin affecting groups, structures, and mission-scale events.
-- Lv.4: Planetary systems may drift from established law when the gene is fully engaged.
-- Lv.5: The user approaches true rewrite state, where reality itself becomes a revisable document.
+## 常见成长路径
+- Lv.1: 可在短时间内微调动量、耐久或感知规则。
+- Lv.2: 能在房间或战斗区内部覆写狭窄规则集。
+- Lv.3: 因果编辑开始影响群体、建筑和任务级事件。
+- Lv.4: 血脉全开时，行星系统都可能偏离既定法则。
+- Lv.5: 逼近真正的“重写态”，现实本身成为可被修订的文档。

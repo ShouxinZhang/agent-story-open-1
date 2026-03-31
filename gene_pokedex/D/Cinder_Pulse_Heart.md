@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Cinder Pulse Heart
+## 名称
+余烬脉心
 
-## Rank
+## 等级
 D
 
-## Category
-Elemental Interference / Thermal Ignition
+## 分类
+元素干涉系 / 热能点火
 
-## Overview
-Cinder Pulse Heart is a D-rank fire-adjacent bloodline that converts bursts of metabolic force into localized heat shock. Unlike true flame-dominion genes, it does not command large infernos, but it can ignite surfaces, superheat strikes, and punish close-range contact with disciplined reliability. This rank marks the point where an elemental bloodline becomes genuinely combat-relevant in Federation service.
+## 概述
+余烬脉心是一种 D 级近火系血脉，能够把短促的代谢爆发转化为局部热冲击。它不像真正的火焰支配型血脉那样操控大片烈焰，但可以稳定地点燃表面、让打击部位瞬间灼热，并以纪律化方式惩罚近距离接触。这一级别也意味着元素血脉第一次在联邦军务体系里具备了真正的战斗相关性。
 
-## Signature Traits
-- Channels body heat into short ignition pulses.
-- Superheats fists, blades, or impact points for a brief interval.
-- Resists the user's own low-grade thermal backlash.
-- Generates visible ember veining around the chest and arms under strain.
+## 核心特征
+- 将体热压缩成短促点火脉冲。
+- 让拳锋、刀刃或撞击点在短时间内升至高温。
+- 对自身低级热反噬具备一定耐受。
+- 负荷提升时，胸腔与手臂周围会浮现可见的余烬状脉纹。
 
-## Combat Use
-Cinder Pulse Heart is well suited to boarding combat, riot suppression, beast culling, and close-quarters military work. Users can burn through restraints, force enemies off a grapple, or add searing impact to melee combinations. Among D-rank cadets and soldiers, it is respected as a direct, practical gene that rewards aggression and control.
+## 战斗应用
+余烬脉心非常适合登舰战、暴乱镇压、异兽清剿和贴身军务作战。使用者可以烧断束缚、逼退缠斗中的敌人，或为近战连击叠加灼烧冲击。在 D 级学员和士兵中，它一直被视作一种直接、实用、且能奖励侵略性与控制力的血脉。
 
-## Limitations
-- Sustained heat output quickly drains stamina.
-- Poor emotional control can trigger wasteful flare bursts.
-- Heavy insulation, vacuum conditions, and heat-resistant armor reduce effectiveness.
-- The gene lacks the range, scale, and terrain control of higher fire bloodlines.
+## 局限性
+- 持续放热会迅速抽空体力。
+- 情绪控制差时，容易触发浪费性的热爆发。
+- 厚重隔热层、真空环境和耐热护甲都会显著削弱效果。
+- 缺少更高阶火系血脉拥有的射程、规模和地形支配能力。
 
-## Awakening Cues
-- The user's heartbeat spikes before sudden temperature surges.
-- Gloves, handrails, or training weapons warm unnaturally during stress.
-- Small scorch marks appear after intense sparring or panic reactions.
-- Medical scans show heat irregularities centered near the cardiovascular system.
+## 觉醒征兆
+- 温度骤升前，心跳会先一步急速攀升。
+- 手套、扶手和训练兵器会在紧张时异常发热。
+- 激烈对练或惊慌反应后，附近常留下焦痕。
+- 医疗扫描会显示以心血管系统为中心的热异常。
 
-## Common Progression
-- Lv.1: Short warmth surges accompany anger or exertion.
-- Lv.2: Touch-based ignition becomes intentional.
-- Lv.3: Heated strikes and weapon channeling become reliable in combat.
-- Lv.4: The user sustains repeated thermal bursts through a full engagement.
-- Lv.5: The heart functions as a disciplined ignition engine at the ceiling of D-rank fire offense.
+## 常见成长路径
+- Lv.1：愤怒或用力时伴随短促暖流激增。
+- Lv.2：接触式点火开始可以主动控制。
+- Lv.3：高热打击与武器导热成为稳定战斗手段。
+- Lv.4：能在整场交战中多次维持热爆发输出。
+- Lv.5：心脏如一台纪律严明的点火引擎，达到 D 级火系进攻的顶点。

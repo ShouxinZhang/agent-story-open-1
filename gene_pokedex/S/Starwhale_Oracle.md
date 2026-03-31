@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Starwhale Oracle
+## 名称
+星鲸神谕
 
-## Rank
+## 等级
 S
 
-## Category
-Mental Perception / Long-Range Resonance
+## 分类
+精神感知系 / 远距共鸣
 
-## Overview
-Starwhale Oracle is an S-rank perception bloodline associated with abyssal migration routes, void-navigation guilds, and ancient sea civilizations. Rather than overwhelming enemies through raw force, it turns the user into a living strategic sensor array able to read life currents, energy tides, and large-scale movement patterns across oceans, storm belts, and near-space corridors.
+## 概述
+星鲸神谕是一种与深渊迁徙航路、虚空领航公会和古海文明有关的 S 级感知血脉。它不以蛮力压垮敌人，而是把使用者变成一座活体战略传感阵列，使其能够读取生命潮流、能量潮汐，以及跨越海洋、风暴带与近太空航道的大尺度运动模式。
 
-## Signature Traits
-- Detects biological, psionic, and gravitational disturbances beyond ordinary military sensors.
-- Projects resonance calls that calm lesser beasts or unsettle unstable minds.
-- Builds predictive maps of migration, pursuit, and ambush routes over vast distances.
-- Preserves mental clarity in darkness, isolation, and abyssal psychic pressure.
+## 核心特征
+- 能探测超出常规军用传感器范围的生物、灵能与引力扰动。
+- 可释放共鸣呼唤，安抚低阶异兽或扰乱不稳定心智。
+- 能在极大尺度上构建迁徙、追猎与伏击路线预测图。
+- 在黑暗、孤绝和深渊精神压迫中依旧保持思维清明。
 
-## Combat Use
-Starwhale Oracle rarely serves as a front-line destroyer, but it decides campaigns through information dominance. On expeditionary missions, its users identify hidden predators, warn fleets away from disaster zones, and coordinate interception patterns before an enemy formation understands it has been discovered.
+## 战斗应用
+星鲸神谕很少充当正面毁灭者，但它能凭信息优势左右整场战役。在远征任务中，持有者能够率先识别潜藏猎食者、为舰队避开灾厄地带，并在敌军还未意识到自己暴露时就完成拦截布势。
 
-## Limitations
-- Excessive information intake can trigger migraines, hallucinations, or temporary sensory burnout.
-- Dense jamming networks and reality-distortion zones reduce resonance accuracy.
-- Broadcast calls may attract high-grade beasts attuned to psychic or oceanic frequencies.
-- Physical enhancement is modest, leaving untrained carriers vulnerable in direct melee.
+## 局限性
+- 过量信息灌入会引发偏头痛、幻觉或短时感官烧毁。
+- 密集干扰网与现实扭曲区会降低共鸣精度。
+- 广播式呼唤可能吸引对精神波或海洋频率敏感的高阶异兽。
+- 身体强化有限，未受训练的持有者在近身格斗中仍显脆弱。
 
-## Awakening Cues
-- The user hears layered songs inside vacuum chambers, deep water, or silent halls.
-- Eyes reflect drifting constellations during concentration.
-- Sleep begins producing route-dreams and danger omens that later prove correct.
-- Nearby animals or mutated sea life react with unusual calm, curiosity, or obedience.
+## 觉醒征兆
+- 在真空舱、深水或绝对寂静空间里听见层叠歌声。
+- 专注时，眼中会映出漂移星座般的反光。
+- 睡梦开始出现路线梦境与之后会成真的灾厄预兆。
+- 附近动物或海系变异生物会表现出异常平静、好奇或服从。
 
-## Common Progression
-- Lv.1: The gene sharpens scouting range, emotional reading, and environmental awareness.
-- Lv.2: The bearer tracks moving targets and danger zones across a battlefield or coastline.
-- Lv.3: Stable predictive maps can cover islands, orbital lanes, or migrating beast swarms.
-- Lv.4: Resonance calls begin influencing hostile organisms and fleet-scale maneuvering.
-- Lv.5: The user becomes a council-registered strategic navigator whose forecasts can save or doom a planet.
+## 常见成长路径
+- Lv.1：侦察半径、情绪读取与环境感知明显增强。
+- Lv.2：可以跨越战场或海岸线追踪移动目标与危险区。
+- Lv.3：稳定的预测图可覆盖群岛、轨道航线或迁徙异兽群。
+- Lv.4：共鸣呼唤开始影响敌对生物与舰队级机动。
+- Lv.5：成为议会备案的战略领航者，其预测足以拯救或毁掉一颗星球。

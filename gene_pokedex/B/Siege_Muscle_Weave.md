@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Siege Muscle Weave
+## 名称
+攻城肌编
 
-## Rank
+## 等级
 B
 
-## Category
-Body Supremacy / Assault Frame
+## 分类
+肉体超体系 / 攻坚战躯
 
-## Overview
-Siege Muscle Weave is a B-rank body bloodline engineered for direct battlefield value. Dense gene filaments are threaded through the musculature, tendons, and micro-bone anchors, allowing the bearer to release short windows of heavy-force output without full mechanized support. Federation marines and colonial security forces prize it because it can crack doors, stop charging creatures, and hold ground when lighter bloodlines collapse.
+## 概述
+攻城肌编是一种专为战场直接价值而设计的 B 级肉体系血脉。高密度基因丝会编入肌肉、肌腱和微骨锚点，使持有者即便没有完全机械化支援，也能释放出短时重压级力量输出。联邦海军陆战队与殖民地安保部队非常看重它，因为它能砸开舱门、拦下冲锋生物，并在更轻型血脉崩线时继续顶住战场。
 
-## Signature Traits
-- Explosive strength bursts far above the user's resting physique.
-- Reinforced tendon chains that reduce self-injury during recoil or impact.
-- Dense muscular compression that improves grappling and shield carrying.
-- Skin and fascia briefly harden under incoming force.
+## 核心特征
+- 具备远超静息体能的爆发式力量峰值。
+- 强化肌腱链条，减少后坐和冲撞中的自伤。
+- 高密度肌肉压缩提升缠斗与持盾能力。
+- 面对冲击时，皮肤与筋膜会短暂硬化。
 
-## Combat Use
-Siege Muscle Weave dominates breaching, boarding, riot suppression, and anti-beast actions. Users can pin stronger foes, smash hardened cover, and keep fighting after impacts that would disable ordinary soldiers. In mixed squads, this bloodline often serves as the anchor around which faster or more delicate awakeners maneuver.
+## 战斗应用
+攻城肌编在破拆、登舰、暴动压制和反异兽作战中表现统治级。使用者能压住更强的敌人、砸碎加固掩体，并在足以让普通士兵失去战斗力的撞击后继续作战。在混编小队里，它往往是那个让高速型和精细型觉醒者得以围绕其机动的中心锚点。
 
-## Limitations
-- Mobility and subtlety are inferior to many other B-rank genes.
-- Repeated overcompression causes deep tissue tearing and prolonged recovery.
-- Energy cost is significant when the user tries to maintain full output continuously.
-- Precision ranged warfare remains a weak point unless supported by training or equipment.
+## 局限性
+- 机动性和隐蔽性逊于许多其他 B 级血脉。
+- 反复过压缩会造成深层软组织撕裂与漫长恢复期。
+- 若试图持续维持满功率输出，能量消耗十分惊人。
+- 在缺乏额外训练或装备支持时，精密远程作战仍是弱项。
 
-## Awakening Cues
-- Sudden difficulty using ordinary furniture, tools, or training weights without damaging them.
-- Bruises fading quickly after impacts that should have caused serious injury.
-- A heavy internal "pressure lock" sensation before explosive movement.
-- The user's handshake or grip becoming abnormal even when relaxed.
+## 觉醒征兆
+- 使用普通家具、工具或训练器械时经常不小心把它们弄坏。
+- 明明该形成重伤的撞击，淤青却消退得很快。
+- 爆发前体内会出现沉重的“压力锁”感。
+- 即便在放松状态下，握手和抓握力度也明显异常。
 
-## Common Progression
-- Lv.1: Strength spikes appear in short bursts under stress.
-- Lv.2: The user learns to channel force through specific limbs or stances.
-- Lv.3: Recoil tolerance and sustained assault performance become reliable.
-- Lv.4: The bearer can alternate offense and defense without immediate collapse.
-- Lv.5: Siege output reaches the top of B-rank tactical standards, often earning transfer into elite Federation assault units.
+## 常见成长路径
+- Lv.1：在压力状态下出现短促的力量峰值。
+- Lv.2：学会把力量导入特定肢体或架势。
+- Lv.3：后坐耐受与持续突击能力变得可靠。
+- Lv.4：能够在进攻与防守间切换而不立刻崩溃。
+- Lv.5：攻城输出达到 B 级战术标准顶点，常因此被调入联邦精锐突击单位。

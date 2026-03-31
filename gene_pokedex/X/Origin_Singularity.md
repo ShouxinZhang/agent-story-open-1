@@ -1,38 +1,38 @@
-# Origin Singularity
+# 起源奇点
 
-## Rank
+## 等级
 X
 
-## Category
-Body Supremacy / Space-Time Collapse
+## 分类
+肉体超体系 / 时空坍缩
 
-## Overview
-Origin Singularity is an X-rank bloodline that condenses the user into a living source-point from which space, gravity, and mass can be reissued. Unlike destructive gravity genes, this lineage is believed to touch the primordial state before separation into matter and void. Ancient myths describe its bearers as walking singularities that could fold fleets into dust or carry entire cities across broken space.
+## 概述
+起源奇点是一种 X 级血脉，会把使用者压缩成一个活着的“源点”，让空间、引力与质量都从其身上重新发放。它不同于单纯破坏性的引力血脉，而被认为触碰到了物质与虚空尚未分离前的原初状态。古老神话把它的持有者描述为行走的奇点，能把舰队折成尘埃，也能带着整座城市穿越断裂空间。
 
-## Signature Traits
-- Generates a controllable singular core without immediate self-collapse.
-- Compresses, stretches, or reanchors local space-time around the body.
-- Converts movement into gravitational command, making every step a field event.
-- Grants extreme survivability against impact, vacuum shear, and dimensional fracture.
+## 核心特征
+- 在不立刻自我坍塌的前提下生成可控奇点核心。
+- 围绕身体压缩、拉伸或重新锚定局部时空。
+- 将移动本身转化为引力指令，让每一步都成为场效应事件。
+- 对撞击、真空撕裂和维度裂伤具备极端生存力。
 
-## Combat Use
-Origin Singularity dominates through positional tyranny. Enemies are pinned, torn apart, or displaced before conventional exchange begins. Advanced users can collapse orbital weapons into harmless scrap, force leviathan-class beasts to the ground, or create transit ruptures for allied evacuation across impossible distances.
+## 战斗应用
+起源奇点以位置暴政支配战斗。在常规交手开始前，敌人就可能已经被钉死、撕裂或挪移。高阶持有者甚至能把轨道武器压回废铁、强迫利维坦级异兽伏地，或撕开跨越不可能距离的迁跃裂缝为友军撤离。
 
-## Limitations
-- Misalignment between core and body can produce total implosion.
-- Civilian zones are effectively impossible to protect during uncontrolled activation.
-- Long-term use distorts nearby geography, navigation grids, and orbital mechanics.
-- Only a handful of texts suggest the gene can be inherited without killing the host line.
+## 局限性
+- 核心与肉身错位会导致整体内爆。
+- 一旦失控激活，平民区几乎不可能被完整保护。
+- 长期使用会扭曲周边地貌、导航网格和轨道力学。
+- 只有极少数文本暗示这条血脉能在不灭绝宿主血脉的前提下被继承。
 
-## Awakening Cues
-- Gravity anomalies follow the user during emotional spikes.
-- Nearby objects drift inward, orbit, or flatten without contact.
-- Navigation systems produce impossible coordinates in the user's presence.
-- The bearer feels a persistent "weight" from directions that do not exist in normal space.
+## 觉醒征兆
+- 情绪起伏时，引力异常会跟随使用者出现。
+- 附近物体会在无接触条件下向内漂移、环绕或被压扁。
+- 导航系统会在其附近算出不可能坐标。
+- 使用者会感到来自“正常空间中不存在方向”的持续重压。
 
-## Common Progression
-- Lv.1: The user creates short-lived gravity spikes and anchor fields.
-- Lv.2: Controlled compression enables battlefield pinning and movement denial.
-- Lv.3: Spatial folding and singular-impact strikes become stable techniques.
-- Lv.4: Regional terrain and orbital paths begin shifting under deliberate influence.
-- Lv.5: The bearer functions as an origin point of force, where space obeys the body rather than containing it.
+## 常见成长路径
+- Lv.1: 能生成短暂引力尖峰与锚定场。
+- Lv.2: 可控压缩开始用于战场钉制与位移拒止。
+- Lv.3: 空间折叠与奇点冲击成为稳定技法。
+- Lv.4: 区域地形与轨道路径在主动施压下开始偏转。
+- Lv.5: 成为力量的起源点，空间不再包容身体，而是服从身体。

@@ -1,38 +1,38 @@
-# Starbreaker Core
+# 碎星核心
 
-## Rank
+## 等级
 SSS
 
-## Category
-Body Supremacy / Stellar Conversion
+## 分类
+肉体超体系 / 恒星转化
 
-## Overview
-Starbreaker Core is an ultra-rare SSS bloodline that compresses a secondary energy furnace near the heart, allowing the bearer to circulate matter-burn plasma through bones, muscles, and nerves. In the Federation era it is treated as a star-class siege gene because a mature user can physically overpower fortress-class armor, survive direct orbital strikes, and force open hardened planetary bunkers.
+## 概述
+碎星核心是一种极度稀有的 SSS 级血脉，会在心脏附近压缩出第二能源炉，使持有者能把“物质燃烧级”等离子沿骨骼、肌肉与神经循环输送。联邦时代把它视作恒星级攻城血脉，因为成熟者能够以肉身压过要塞级装甲、扛住轨道直击，并硬生生轰开行星地堡。
 
-## Signature Traits
-- Generates a self-contained stellar core that replaces ordinary aerobic limits.
-- Converts incoming heat, radiation, and kinetic force into combat output.
-- Reinforces the skeleton with radiant crystal lattices during high-load activation.
-- Produces short bursts of pseudo-solar plasma through fists, breath, or impact waves.
+## 核心特征
+- 生成自洽的恒星核心，取代普通有氧极限。
+- 将来袭热量、辐射和动能直接转化为战斗输出。
+- 在高负荷激活时，用辐光晶格强化骨架。
+- 通过拳锋、呼吸和冲击波短暂释放拟太阳等离子。
 
-## Combat Use
-Starbreaker Core is built for frontal domination. Users excel at breaching warships, tearing through beast carapaces, and holding terrain under overwhelming fire. At Lv.4 and Lv.5, elite users can punch through mountain-scale structures or ignite localized skyfire over a battlefield.
+## 战斗应用
+碎星核心为正面碾压而生。使用者擅长凿穿战舰、撕裂异兽甲壳，并在铺天盖地的火力下强行守住地形。到 Lv.4 与 Lv.5，顶尖持有者甚至能打穿山体尺度结构，或在局部战场上点燃如天火坠落般的焚烧景象。
 
-## Limitations
-- Activation consumes massive trace minerals and rare reactor-grade supplements.
-- Emotional instability can push the furnace into overload, causing indiscriminate meltdown.
-- Fine control is poor compared with perception or domain genes.
-- Recovery cycles are long; repeated peak output may leave the body in a brittle cooling state.
+## 局限性
+- 激活需要消耗大量微量元素与稀有的反应堆级补剂。
+- 情绪失控会把内炉推入过载，导致无差别熔毁。
+- 与感知型或领域型血脉相比，精细控制能力较差。
+- 恢复周期很长，反复峰值输出会让身体进入脆化冷却状态。
 
-## Awakening Cues
-- A persistent sensation of pressure or heat behind the sternum.
-- Abnormal resistance to vacuum drills, radiation chambers, or magma-adjacent environments.
-- Combat stress causing orange-gold cracks to appear beneath the skin.
-- Medical scans showing impossible caloric loss without organ failure.
+## 觉醒征兆
+- 胸骨后方持续存在热压感。
+- 对真空训练、辐射舱和熔岩近域环境呈现异常耐受。
+- 战斗压力下，皮下会裂开橙金色发光纹路。
+- 医疗扫描显示离谱热量损耗，却没有随之而来的器官衰竭。
 
-## Common Progression
-- Lv.1: The user manifests core heat and short explosive bursts, but output leaks heavily.
-- Lv.2: The body begins storing converted energy for repeated close-range strikes.
-- Lv.3: Plasma reinforcement stabilizes, enabling sustained siege combat.
-- Lv.4: The internal core can momentarily bloom into a battlefield-scale furnace halo.
-- Lv.5: The bearer enters true starbreaker state, where flesh behaves like a mobile stellar engine.
+## 常见成长路径
+- Lv.1: 显现核心热与短促爆炸输出，但泄漏极重。
+- Lv.2: 身体开始储存转化能量，用于反复近距离打击。
+- Lv.3: 等离子强化趋于稳定，可支撑持续攻城战。
+- Lv.4: 内部核心能短暂绽放为覆盖战场的熔炉光环。
+- Lv.5: 进入真正的碎星状态，肉身如一台移动恒星引擎。

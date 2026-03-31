@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Signal Echo Cortex
+## 名称
+信号回声皮层
 
-## Rank
+## 等级
 E
 
-## Category
-Mental Perception / Pattern Acquisition
+## 分类
+精神感知系 / 模式采集
 
-## Overview
-Signal Echo Cortex is an E-rank cognition bloodline that lets the brain recognize repeated rhythms in speech, machinery, footwork, and low-level electronic emissions. It is popular with analysts, surveillance operators, and code-break trainees because it turns noise into useful structure. While far from the frightening perception genes held by top academies or major houses, it gives ordinary professionals a real intelligence advantage.
+## 概述
+信号回声皮层是一种 E 级认知血脉，它让大脑更容易识别语言、机械、脚步以及低级电子信号中的重复节律。它深受分析员、监视岗位人员和密码破译学员欢迎，因为它能把噪音转化成可用结构。虽然远远比不上顶级学院或大世家掌握的可怕感知血脉，但它足以为普通职业者带来真实而稳定的情报优势。
 
-## Signature Traits
-- Picks out recurring patterns in movement, audio, and device behavior.
-- Learns routine timings faster than ordinary observation allows.
-- Notices subtle irregularities in otherwise steady systems.
-- Retains short tactical sequences with unusual clarity.
+## 核心特征
+- 能从动作、音频和设备行为中迅速提取重复模式。
+- 比常规观察更快掌握例行节奏与循环规律。
+- 能察觉原本平稳系统中的微妙异常。
+- 对短期战术序列的记忆异常清晰。
 
-## Combat Use
-Signal Echo Cortex supports ambush detection, guard-pattern reading, and fast adaptation to enemy habits. In small-unit fights, the user often identifies reload timing, patrol loops, or repeated attack habits before teammates do. That makes the gene valuable to scouts, tactical assistants, and support officers who win by information rather than raw force.
+## 战斗应用
+信号回声皮层适用于伏击侦测、守卫轮换判读，以及快速适应敌人的行为习惯。在小队交战中，使用者往往比队友更早看出换弹节奏、巡逻回路或重复攻击习惯。这让它成为侦察兵、战术辅助人员和情报制胜型军官眼中的实用血脉。
 
-## Limitations
-- It reads patterns, not hidden thoughts.
-- Chaotic battlefields with constantly changing variables can overload the user.
-- False rhythms and deliberate randomization reduce prediction quality.
-- The gene offers little benefit if the user lacks discipline or tactical training.
+## 局限性
+- 它读取的是模式，不是隐藏思想。
+- 变量不断变化的混乱战场很容易让使用者过载。
+- 伪造节律与刻意随机化会显著降低预测质量。
+- 如果使用者缺乏纪律与战术训练，基因本身也难以发挥价值。
 
-## Awakening Cues
-- The user unconsciously taps along with machine cycles or spoken cadence.
-- Alarm systems, engines, and classroom simulations feel easier to decode.
-- Routine deception attempts become noticeably less effective.
-- Headaches appear after hours spent around dense signal traffic.
+## 觉醒征兆
+- 会无意识地跟随机械节拍或说话韵律轻敲手指。
+- 警报系统、引擎和课堂模拟变得更容易“读懂”。
+- 常规欺骗手段对本人开始明显失效。
+- 长时间处于密集信号环境后容易头痛。
 
-## Common Progression
-- Lv.1: Repetition becomes easier to notice and remember.
-- Lv.2: Simple behavioral and mechanical cycles are read with confidence.
-- Lv.3: Tactical pattern recognition becomes field-usable.
-- Lv.4: The user tracks several overlapping routines without losing clarity.
-- Lv.5: Echo analysis reaches the high end of E-rank reconnaissance support.
+## 常见成长路径
+- Lv.1：更容易注意到并记住重复现象。
+- Lv.2：能够自信判读简单行为循环与机械周期。
+- Lv.3：战术级模式识别开始具备野外实用性。
+- Lv.4：能同时追踪多条重叠规律而不丢失清晰度。
+- Lv.5：回声分析能力达到 E 级侦察支援血脉的高位。

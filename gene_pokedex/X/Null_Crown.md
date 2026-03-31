@@ -1,38 +1,38 @@
-# Null Crown
+# 虚无王冠
 
-## Rank
+## 等级
 X
 
-## Category
-Mental Perception / Existence Negation
+## 分类
+精神感知系 / 存在抹消
 
-## Overview
-Null Crown is a legendary X bloodline associated with the absence behind creation rather than creation itself. Where most mental genes read, predict, or dominate, Null Crown erases definition. It can silence powers, sever conceptual links, and reduce even advanced techniques to unformed potential. Federation theologians, black archives, and sealed cult records all describe it as a gene that "wears the end of things as a halo."
+## 概述
+虚无王冠是一种传说级 X 血脉，它对应的不是创造本身，而是创造背后的“无”。大多数精神血脉负责读取、预判或压制，而虚无王冠负责抹去定义。它能让能力沉默、切断概念关联，并把再高级的技巧还原成尚未成形的可能性。联邦神学家、黑档案和被封存的教团记录都把它描述成“把万物终结戴作光环的基因”。
 
-## Signature Traits
-- Suppresses nearby supernatural, psychic, and elemental phenomena at the rule level.
-- Erases identity signatures, making the bearer difficult to track across normal and exotic sensors.
-- Breaks technique chains by removing their conceptual anchor.
-- Produces an annihilation halo that weakens matter cohesion and willpower.
+## 核心特征
+- 在规则层面压制附近的超自然、灵能与元素现象。
+- 抹去身份特征，使持有者在常规与非常规传感器中都难以追踪。
+- 通过移除概念锚点来打断技术链条。
+- 形成湮灭光环，削弱物质凝聚性与意志强度。
 
-## Combat Use
-Null Crown is the nightmare counter-gene. It collapses domains, blinds perception bloodlines, and strips elemental conversions of continuity. Against fleets or cult formations, an advanced bearer can create dead zones where command links fail, relics go dark, and empowered organisms revert toward helpless biological baseline.
+## 战斗应用
+虚无王冠是所有强基因的噩梦型克制谱系。它能压塌领域、致盲感知系血脉，并切断元素转化的连续性。面对舰队或教团编阵时，高阶持有者可以制造“死域”，在那里指挥链断裂、遗物熄灭，而被强化的生命体会被剥回接近无助生物基线的状态。
 
-## Limitations
-- Allies are not fully exempt; logistics and coordination suffer inside strong null fields.
-- Prolonged use can flatten the user's emotional range and personal identity.
-- Material erasure does not distinguish cleanly between target and environment.
-- Records about mature users often terminate abruptly, suggesting extreme mortality or disappearance.
+## 局限性
+- 友军并不能完全豁免，强虚无场中后勤与协同同样会受损。
+- 长时间使用会抹平情绪范围并侵蚀个人身份感。
+- 物质抹消难以精确区分目标与环境。
+- 关于成熟持有者的记录往往会突然中断，暗示极高死亡率或彻底失踪。
 
-## Awakening Cues
-- Devices, relics, and awakened powers fail more often around the user than statistics allow.
-- Crowds unconsciously forget having seen the bearer for more than a few moments.
-- Psychic contact produces silence instead of resistance.
-- The user's shadow or reflection intermittently vanishes under stress.
+## 觉醒征兆
+- 设备、遗物和觉醒能力在其附近失效的频率远超统计允许范围。
+- 人群会在几分钟后无意识忘记自己曾见过此人。
+- 精神接触不再遇到阻力，而只剩一片静默。
+- 在高压下，影子或倒影会断续消失。
 
-## Common Progression
-- Lv.1: The user dampens weak powers and disrupts basic scans.
-- Lv.2: Small null zones shut down ordinary awakened techniques.
-- Lv.3: Concept-level suppression begins affecting elite bloodlines and relic machinery.
-- Lv.4: Whole formations lose synchronization inside the crown field.
-- Lv.5: The bearer approaches absolute negation, where existence persists only by the user's allowance.
+## 常见成长路径
+- Lv.1: 能压低弱小能力并干扰基础扫描。
+- Lv.2: 小范围虚无区足以关闭普通觉醒技。
+- Lv.3: 概念级压制开始影响精英血脉与遗物机械。
+- Lv.4: 整个编队会在王冠场内失去同步性。
+- Lv.5: 逼近绝对否定，存在本身仿佛只能在其允许下继续维持。

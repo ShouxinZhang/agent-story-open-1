@@ -1,38 +1,38 @@
-# Worldline Archive
+# 世界线档案
 
-## Rank
+## 等级
 SSS
 
-## Category
-Mental Perception / Temporal Analysis
+## 分类
+精神感知系 / 时间线解析
 
-## Overview
-Worldline Archive is an SSS cognition bloodline feared by the Federation's highest councils because it turns the mind into a living record of branching causality. Rather than outright time travel, the gene allows a user to sample probable timelines, reconstruct erased events, and predict strategic shifts with a degree of precision that can overturn wars, elections, and interstellar expeditions.
+## 概述
+世界线档案是一种让联邦最高议会都感到忌惮的 SSS 级认知血脉，因为它会把大脑改造成分岔因果的活体记录库。它并非真正的时间旅行，但能让持有者抽样高概率时间线、重建被抹去的事件，并以足以改写战争、选举和星际远征结果的精度预测战略变化。
 
-## Signature Traits
-- Observes layered probability paths as overlapping "record threads."
-- Reconstructs hidden incidents from residual information patterns.
-- Forecasts battlefield decisions, diplomatic betrayals, and structural failure points.
-- Protects the mind with a recursive archive shell that resists lesser psychic invasion.
+## 核心特征
+- 将层叠概率路径视作交错覆盖的“记录丝线”。
+- 从残余信息模式中重构被隐藏的事件。
+- 预判战场决策、外交背叛和结构失稳点。
+- 以递归档案壳保护心智，抵御较弱精神入侵。
 
-## Combat Use
-Worldline Archive is a force multiplier rather than a blunt weapon. On the battlefield, users preempt ambushes, direct allied movement with near-prophetic accuracy, and identify the one sequence that collapses an enemy formation. In intelligence work, they can expose cover-ups, decode ruin sites, and reverse-engineer lost technologies from fragmentary traces.
+## 战斗应用
+世界线档案是一种倍增器，而非钝器。战场上，使用者能提前掐灭伏击、以近乎预言的精度引导友军移动，并识别出唯一能击穿敌方阵型的关键序列。在情报领域，它可以揭露掩盖事件、破译遗迹站点，并从碎片残迹中逆向还原失落技术。
 
-## Limitations
-- The burden of processing multiple futures can fracture identity and sleep cycles.
-- Probability visibility decreases around X-rank anomalies, void zones, and heavily distorted space.
-- The gene is vulnerable to information poisoning if false data is fed at sufficient scale.
-- Social isolation is common because ordinary conversation feels slow and predictable to advanced users.
+## 局限性
+- 同时处理多条未来的负担会撕裂身份感与睡眠周期。
+- 在 X 级异常区、虚空带和重度扭曲空间附近，概率可视性会明显下降。
+- 如果足量假信息被持续喂入，该基因会遭受信息投毒。
+- 由于普通对话在高阶使用者眼里过慢且可预测，社交隔离极为常见。
 
-## Awakening Cues
-- Experiencing repeated deja vu that later proves operationally accurate.
-- Reading partially destroyed records and intuitively "seeing" the missing sections.
-- Involuntary prediction of accidents seconds or minutes before they occur.
-- Headaches triggered by crowded data environments, military simulators, or relic chambers.
+## 觉醒征兆
+- 会经历反复出现、且之后被证明确实有操作价值的既视感。
+- 阅读残缺记录时，会本能“看见”缺失部分。
+- 会在事故发生前数秒乃至数分钟无意识地做出预言。
+- 拥挤数据环境、军用模拟器或遗物舱会触发明显头痛。
 
-## Common Progression
-- Lv.1: Short-term predictive flashes and pattern reconstruction emerge.
-- Lv.2: The user tracks several likely outcomes during stress events.
-- Lv.3: Historical back-tracing and strategic foresight become dependable tools.
-- Lv.4: Broad campaign-level forecasting becomes possible across planets or fleets.
-- Lv.5: The mind functions as a living archive of worldline drift, bordering on forbidden strategic omniscience.
+## 常见成长路径
+- Lv.1: 出现短时预见闪回与模式重建能力。
+- Lv.2: 能在压力事件中同时跟踪数个高概率结果。
+- Lv.3: 历史回溯与战略前视变成可靠工具。
+- Lv.4: 可跨越行星或舰队层面进行广域战役预测。
+- Lv.5: 心智化为世界线漂移的活体档案，逼近被列为禁忌的战略全知边缘。

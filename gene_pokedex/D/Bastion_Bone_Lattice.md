@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Bastion Bone Lattice
+## 名称
+堡垒骨格
 
-## Rank
+## 等级
 D
 
-## Category
-Physical Supersystem / Ossified Defense
+## 分类
+肉体超体系 / 骨化防御
 
-## Overview
-Bastion Bone Lattice is a D-rank reinforcement bloodline that densifies bone structure and allows limited skeletal redistribution under impact stress. It is common among assault infantry, frontier enforcers, and hazardous-environment responders who need a body that can absorb punishment and keep moving. Within the Federation ranking system, this gene represents the transition from "tough" to clearly superhuman durability.
+## 概述
+堡垒骨格是一种 D 级强化血脉，能够提高骨骼密度，并在受冲击时进行有限度的骨架受力再分配。它常见于突击步兵、边疆执法者和高危环境应急人员，因为这些岗位都需要一具能吃下伤害、还可以继续行动的身体。在联邦评级体系中，这一基因代表着从“结实耐打”正式跨入“明确超人耐久”的门槛。
 
-## Signature Traits
-- Increases skeletal density without crippling mobility.
-- Redirects blunt-force impact across a reinforced internal frame.
-- Hardens key strike points such as forearms, shins, and shoulders during combat.
-- Greatly lowers fracture risk from falls, collisions, and recoil shock.
+## 核心特征
+- 在不严重损害机动性的前提下提升骨骼密度。
+- 将钝击冲击重新分散到强化后的内部骨架上。
+- 战斗中可强化前臂、小腿、肩部等关键受击与打击点。
+- 大幅降低跌落、碰撞与后坐冲击导致骨折的风险。
 
-## Combat Use
-Bastion Bone Lattice turns the user into a reliable front-line anchor. It supports shield charges, breaching work, beast interception, and defensive holds against stronger opponents. On lower-tech worlds where claws, clubs, and improvised weapons remain common, this gene can let a trained operative dominate a battlefield through pure staying power.
+## 战斗应用
+堡垒骨格会把使用者变成可靠的前线锚点。它适合盾冲、破拆、异兽拦截和对强敌的防御缠斗。在那些爪击、钝器和简陋武器依旧常见的低技术星球上，这一血脉足以让训练有素的觉醒者凭借纯粹的站场能力压制整片战区。
 
-## Limitations
-- Increased density raises energy demands and long-term nutrition requirements.
-- It mitigates blunt trauma better than cutting, piercing, or internal shock effects.
-- High-speed movement can feel heavy until the user trains extensively.
-- The gene does not grant true regeneration; accumulated damage still matters.
+## 局限性
+- 骨密度增加会显著提高能量消耗与长期营养需求。
+- 它对钝击缓冲更强，但对切割、穿刺和内震伤害并不算理想。
+- 在缺乏训练前，高速动作会带来明显的沉重感。
+- 该血脉并不提供真正再生能力，累计伤害依旧会致命。
 
-## Awakening Cues
-- Bone scans show unexplained density spikes after puberty or training.
-- The user shrugs off impacts that should cause fractures.
-- Limbs feel heavy just before the reinforcement reflex activates.
-- Sparring partners report painful contact even on guarded exchanges.
+## 觉醒征兆
+- 青春期或高强度训练后，骨骼扫描会出现无法解释的密度突增。
+- 明明应当骨裂的冲击，使用者却能硬扛下来。
+- 强化反射启动前，四肢会先出现短暂沉重感。
+- 对练对象会抱怨即便格挡接触也格外疼痛。
 
-## Common Progression
-- Lv.1: Bone density rises and fracture resistance improves.
-- Lv.2: Reflexive reinforcement appears around major joints and guard points.
-- Lv.3: The user absorbs combat-grade impacts without losing structure.
-- Lv.4: Redistribution control creates a true defensive combat style.
-- Lv.5: The skeleton approaches fortress-like resilience within D-rank limits.
+## 常见成长路径
+- Lv.1：骨密度上升，抗骨折能力增强。
+- Lv.2：大关节与防御点开始出现反射式强化。
+- Lv.3：可以承受战斗级冲击而不失去整体结构。
+- Lv.4：受力再分配能力逐渐形成真正的防御型战斗风格。
+- Lv.5：在 D 级范围内，骨架韧性逼近小型堡垒级别。

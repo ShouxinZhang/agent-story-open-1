@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Needle Eye Reflex
+## 名称
+针目反射
 
-## Rank
+## 等级
 F
 
-## Category
-Mental Perception / Trajectory Sense
+## 分类
+精神感知系 / 轨迹感知
 
-## Overview
-Needle Eye Reflex is a low-intensity perception gene that sharpens timing, line judgment, and short-range motion reading. It is common among mechanics, drone hobbyists, line workers, and amateur marksmen. The bloodline does not grant prophecy or psychic intrusion, but it gives the mind a small predictive edge that makes ordinary actions look unusually precise.
+## 概述
+针目反射是一种低强度感知基因，能够强化时机判断、线性判断与短距离动态捕捉能力。它常见于机械师、无人机爱好者、流水线技术工和业余射手。该血脉并不会赋予预言或精神侵入能力，但会给大脑一丝微弱的预判优势，让普通动作显得异常精准。
 
-## Signature Traits
-- Tracks moving objects with reduced visual lag.
-- Improves hand-eye coordination during fine technical work.
-- Detects the likely path of simple projectiles and thrown tools.
-- Narrows focus quickly under sudden pressure.
+## 核心特征
+- 追踪移动物体时的视觉延迟更低。
+- 提升精细技术操作中的手眼协调能力。
+- 能判断简单弹道与抛掷工具的大致轨迹。
+- 在突发压力下可迅速收束注意力。
 
-## Combat Use
-Needle Eye Reflex is valued in basic firearms courses, knife defense drills, and emergency piloting simulations. Users react a fraction sooner to obvious angles of attack and place controlled shots more consistently than peers. In militia or campus security settings, that modest edge can decide whether a fight stays manageable.
+## 战斗应用
+针目反射在基础枪械课、匕首防御训练和紧急驾驶模拟中都很受重视。携带者往往能比同伴更早半拍察觉明显攻击角度，也能更稳定地打出可控射击。在民兵体系或校园安保环境里，这点不算夸张的优势往往就足以决定一场冲突是否还在可控范围内。
 
-## Limitations
-- Cannot read complex feints or elite combat patterns consistently.
-- Mental fatigue accumulates quickly in crowded visual environments.
-- The gene improves reaction quality more than raw body speed.
-- Smoke, darkness, and sensor distortion sharply reduce its value.
+## 局限性
+- 无法稳定识破复杂假动作或精英级战斗套路。
+- 在拥挤而杂乱的视觉环境里，精神疲劳积累很快。
+- 该基因提升的是反应质量，而非身体本身的速度。
+- 烟雾、黑暗与传感干扰会显著削弱其价值。
 
-## Awakening Cues
-- The user begins catching dropped objects without thinking.
-- Tool work, stitching, or maintenance tasks become unnaturally clean.
-- Training rounds seem to "announce" their path a heartbeat early.
-- Eye strain appears after long periods of visual concentration.
+## 觉醒征兆
+- 使用者会开始下意识接住坠落物。
+- 工具活、缝补或维护作业突然变得异常利落。
+- 训练弹的轨迹仿佛会提前一瞬“自报家门”。
+- 长时间集中视觉后容易出现眼部酸胀。
 
-## Common Progression
-- Lv.1: Basic reflex sharpening and cleaner tracking appear.
-- Lv.2: Short-range projectile reading becomes dependable.
-- Lv.3: Combat timing and technical precision noticeably improve.
-- Lv.4: The user anticipates simple attack chains before they fully unfold.
-- Lv.5: The gene reaches the upper limit of F-rank predictive reflex support.
+## 常见成长路径
+- Lv.1：基础反射增强，追踪表现更干净。
+- Lv.2：对短距离投射物的判读开始稳定可靠。
+- Lv.3：战斗节奏把握与技术精度明显提升。
+- Lv.4：能在简单连招彻底展开前预判其走向。
+- Lv.5：达到 F 级预测型反射辅助血脉的上限。

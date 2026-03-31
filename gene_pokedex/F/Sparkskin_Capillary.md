@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Sparkskin Capillary
+## 名称
+火花皮毛细脉
 
-## Rank
+## 等级
 F
 
-## Category
-Elemental Interference / Static Charge
+## 分类
+元素干涉系 / 静电荷
 
-## Overview
-Sparkskin Capillary is an entry-level electro-elemental bloodline that stores tiny static discharges along the skin and peripheral nerves. It is common in dense city populations and often dismissed as a "utility gene," yet the Federation still catalogs it because even weak elemental traits can become meaningful with discipline. Most users never rise beyond simple static handling, but trained bearers can turn irritation-level sparks into practical tactical timing.
+## 概述
+火花皮毛细脉是一种入门级电系血脉，会在皮肤与末梢神经中储存微弱静电。它在人口密集的城市中较为常见，常被视作“生活型基因”，但联邦依旧将其列入正式档案，因为再弱小的元素特征，在足够训练下也能产生战术意义。大多数携带者终其一生都停留在简单放电层面，不过受过训练的人可以把恼人程度的火花转化成实用的节奏干扰。
 
-## Signature Traits
-- Builds small electrostatic charges through motion and friction.
-- Produces faint blue-white sparks at the fingertips under stress.
-- Improves tolerance to minor electric shocks from tools and exposed wiring.
-- Creates a brief tingling warning before nearby discharge events.
+## 核心特征
+- 能通过动作与摩擦积蓄少量静电。
+- 在压力状态下，指尖会迸出淡蓝白色电火花。
+- 提高对工具漏电和裸露线路轻微电击的耐受性。
+- 在附近即将发生放电时，皮肤会先出现短暂刺麻预警。
 
-## Combat Use
-In combat, Sparkskin Capillary is mainly a close-range disruption gene. Users can spoil a grip, interfere with cheap sensors, startle wildlife, or create split-second openings during grapples. Federation trainees with this bloodline often pair it with batons, insulated gloves, and capture gear instead of trying to imitate true lightning-class genes.
+## 战斗应用
+在实战中，火花皮毛细脉主要属于近距离干扰型基因。使用者可以打乱抓握、干扰廉价传感器、惊吓野生生物，或在扭打中制造转瞬即逝的破绽。联邦训练生通常会把它和警棍、绝缘手套、拘束装备搭配使用，而不是盲目模仿真正的雷霆级血脉。
 
-## Limitations
-- Electrical output is too low for ranged lethality.
-- Wet environments disperse charge unless the user has strong control.
-- Advanced armor and insulated materials blunt most of its effects.
-- Overuse causes numbness in the fingers and forearms.
+## 局限性
+- 电输出过低，几乎不具备远程致命性。
+- 潮湿环境会迅速泄散电荷，除非使用者控制力很强。
+- 高级护甲与绝缘材料能显著钝化它的效果。
+- 过度使用会导致手指与前臂麻木。
 
-## Awakening Cues
-- Small devices glitch or reset when the user handles them carelessly.
-- Hair rises or crackles before emotional outbursts.
-- Door panels and training terminals register static spikes nearby.
-- The user receives fewer injuries from accidental low-grade shocks than expected.
+## 觉醒征兆
+- 随手摆弄小型设备时，它们容易故障或重启。
+- 情绪爆发前，头发会立起或发出细小爆裂声。
+- 门禁面板与训练终端会记录到附近异常静电峰值。
+- 使用者遭遇低级电击时，受伤程度往往比预期更轻。
 
-## Common Progression
-- Lv.1: Static buildup appears during stress or exercise.
-- Lv.2: The user deliberately releases sparks through touch.
-- Lv.3: Short disruptive bursts become reliable against exposed gear and unarmored targets.
-- Lv.4: Charge retention improves enough for repeated close-quarters use.
-- Lv.5: The gene approaches the lower threshold of true tactical electro-interference.
+## 常见成长路径
+- Lv.1：压力或运动时开始出现静电积蓄。
+- Lv.2：能主动通过接触释放火花。
+- Lv.3：短促干扰放电可稳定作用于裸露装备与无甲目标。
+- Lv.4：蓄电保持能力提升到足以支持反复近战使用。
+- Lv.5：逐步逼近真正战术级电干涉血脉的最低门槛。

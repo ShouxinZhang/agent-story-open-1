@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Iron Tendon Mesh
+## 名称
+铁腱网
 
-## Rank
+## 等级
 E
 
-## Category
-Physical Supersystem / Structural Reinforcement
+## 分类
+肉体超体系 / 结构强化
 
-## Overview
-Iron Tendon Mesh is an E-rank body bloodline that reinforces connective tissue rather than brute muscle mass. The result is better load transfer, stronger grip retention, and improved joint stability under repeated strain. It is common among cargo handlers, industrial security units, and Federation trainees who need dependable physical output without the prestige or upkeep of elite body genes.
+## 概述
+铁腱网是一种 E 级肉体系血脉，它强化的是连接组织而非蛮力肌群。其结果是更高效的受力传导、更稳固的抓握保持，以及在反复受压下更稳定的关节表现。这一血脉常见于货运装卸工、工业安保单位和联邦训练生群体，适合那些需要可靠身体输出、却不具备精英肉体系血脉维护条件的人。
 
-## Signature Traits
-- Tendons and ligaments absorb impact more efficiently.
-- Grip strength remains stable during prolonged lifting or weapon handling.
-- Joints resist sprains and sudden torque better than ordinary humans.
-- Short explosive movements feel cleaner and more controlled.
+## 核心特征
+- 肌腱与韧带对冲击的吸收效率更高。
+- 长时间搬运或持械时，握力衰减更慢。
+- 关节对扭伤和突发扭矩的抵抗能力强于常人。
+- 短促爆发动作更干净，也更容易受控。
 
-## Combat Use
-Iron Tendon Mesh supports shield work, baton combat, breaching operations, and recoil-heavy firearms. Users do not look superhuman at rest, but in field conditions they stay mechanically sound when others lose form. On frontier worlds and aboard smaller patrol ships, that reliability makes the gene quietly valuable.
+## 战斗应用
+铁腱网适用于盾牌战、警棍战、破门行动和高后坐力枪械使用。静止状态下，携带者未必看起来超凡，但到了实战条件里，他们能在别人动作已经变形时依旧保持结构完整。在边疆星球和小型巡逻舰上，这种可靠性使其拥有低调却稳定的价值。
 
-## Limitations
-- Provides durability and force transfer, not major regenerative ability.
-- Repeated overload still causes internal strain if recovery is ignored.
-- Lacks the localized hardening and breakthrough power associated with D-rank body genes.
-- Performance gains are diminished when nutrition and conditioning are poor.
+## 局限性
+- 提供的是耐久与传力能力，而非强再生能力。
+- 若忽视恢复，反复超负荷仍会造成内部劳损。
+- 缺少 D 级肉体系常见的局部硬化与正面突破能力。
+- 营养和体能基础差时，增益会明显打折。
 
-## Awakening Cues
-- The user notices fewer strains after lifting, climbing, or combat drills.
-- Grip contests and resistance training improve unusually fast.
-- Falls and awkward landings produce less joint pain than expected.
-- Motion capture scans show abnormal stability during high-load testing.
+## 觉醒征兆
+- 负重、攀爬或对抗训练后的拉伤次数明显减少。
+- 握力对抗和阻力训练进步异常迅速。
+- 摔倒或别扭落地后，关节疼痛比预期轻得多。
+- 动作捕捉测试会显示高负荷状态下异常稳定的结构曲线。
 
-## Common Progression
-- Lv.1: Basic joint stabilization and grip improvement appear.
-- Lv.2: Repeated physical work causes less structural fatigue.
-- Lv.3: Impact handling and force transfer become combat-relevant.
-- Lv.4: The body maintains clean mechanics under prolonged tactical load.
-- Lv.5: The user reaches the durable, disciplined peak of E-rank reinforcement.
+## 常见成长路径
+- Lv.1：开始出现基础关节稳定与握力提升。
+- Lv.2：反复体力劳动带来的结构疲劳显著下降。
+- Lv.3：冲击承受与传力能力开始具备实战意义。
+- Lv.4：在长时间战术负荷下仍能保持动作结构干净。
+- Lv.5：达到 E 级强化型血脉中耐久而克制的成熟峰值。

@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Steady Breath Frame
+## 名称
+稳息躯架
 
-## Rank
+## 等级
 F
 
-## Category
-Physical Supersystem / Respiratory Adaptation
+## 分类
+肉体超体系 / 呼吸适应
 
-## Overview
-Steady Breath Frame is a common Federation bloodline that improves oxygen intake, circulatory efficiency, and recovery under mild gravity strain. It appears frequently among transport crews, habitat workers, and colonists assigned to humid or high-oxygen worlds. In Dragon Calendar 2126, it is often treated as the model example of a respectable but ordinary F-rank inheritance: useful, reliable, and rarely prestigious.
+## 概述
+稳息躯架是一种常见的联邦血脉，能够提升摄氧效率、循环系统稳定性，以及在轻度重力压力下的恢复能力。它经常出现在运输船船员、栖居站工人以及被派往潮湿或高氧星球的殖民者身上。龙历 2126 年，这一血脉常被视作“体面但平凡”的 F 级继承模板：实用、可靠，却很少带来真正的声望。
 
-## Signature Traits
-- Maintains stable breathing rhythm during long physical shifts.
-- Reduces dizziness when moving between standard gravity and slightly elevated gravity.
-- Improves resistance to smoke, dust, and thin industrial pollutants.
-- Speeds up post-exertion recovery compared with unawakened civilians.
+## 核心特征
+- 长时间体力工作中也能保持稳定呼吸节奏。
+- 在标准重力与略高重力环境切换时，更不容易眩晕。
+- 对烟尘、灰尘和轻度工业污染的耐受力更高。
+- 高强度活动后的恢复速度明显快于未觉醒平民。
 
-## Combat Use
-Steady Breath Frame does not create obvious supernatural effects, but it helps users stay functional in drawn-out skirmishes, forced marches, and low-intensity boarding actions. Cadets with this gene usually perform better in endurance drills, disciplined firing lines, and rescue missions where panic breathing would otherwise break formation.
+## 战斗应用
+稳息躯架不会制造明显的超自然特效，但它能让使用者在持久小规模冲突、强行军和低烈度登舰作战中维持功能。拥有这一基因的学员通常在耐力训练、纪律射击阵列和救援任务里表现更好，因为他们不容易被恐慌性呼吸打乱节奏。
 
-## Limitations
-- Offers little direct offensive output.
-- Performance gains drop sharply in toxin-heavy environments beyond ordinary industrial standards.
-- Cannot compensate for poor technique, weak equipment, or major wounds.
-- High-rank pressure fields and extreme elemental attacks overwhelm its benefits.
+## 局限性
+- 几乎不提供直接进攻能力。
+- 在毒性远高于常规工业标准的环境中，增益会急剧下降。
+- 无法弥补技术拙劣、装备落后或重大伤势。
+- 高阶压制场和极端元素打击会直接压过它的收益。
 
-## Awakening Cues
-- The user notices that exhaustion fades unusually quickly after training.
-- Breathing remains calm during emergencies that leave others gasping.
-- Long-distance running or swim tests improve without a matching increase in muscle mass.
-- Lung scans show abnormal efficiency despite ordinary medical readings.
+## 觉醒征兆
+- 训练后的疲劳会以异常速度消退。
+- 紧急状况下依旧呼吸平稳，而旁人已经气喘失衡。
+- 长跑和游泳成绩提升明显，但肌肉量并未同步暴涨。
+- 肺部扫描显示出超出常规医学解释范围的效率表现。
 
-## Common Progression
-- Lv.1: Breathing steadies and recovery from mild fatigue improves.
-- Lv.2: The user tolerates longer work cycles and moderate gravity shifts.
-- Lv.3: Endurance gains become obvious in field drills, dives, and loaded movement.
-- Lv.4: Respiratory control supports extended combat pacing and pressure adaptation.
-- Lv.5: The body operates with near-machine regularity under most ordinary Federation conditions.
+## 常见成长路径
+- Lv.1：呼吸开始平稳，轻度疲劳的恢复速度提升。
+- Lv.2：能承受更长的工作周期与中等重力波动。
+- Lv.3：耐力优势在野外演训、潜水和负重机动中变得明显。
+- Lv.4：呼吸控制足以支撑延长战斗节奏与压力适应。
+- Lv.5：在大多数常规联邦环境下，身体运作接近精密机器般稳定。

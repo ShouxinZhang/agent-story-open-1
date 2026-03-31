@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Mistwake Gland
+## 名称
+雾潮腺
 
-## Rank
+## 等级
 E
 
-## Category
-Elemental Interference / Water Vapor
+## 分类
+元素干涉系 / 水汽操控
 
-## Overview
-Mistwake Gland is an E-rank moisture-control bloodline especially common on oceanic colonies, greenhouse stations, and humid equatorial cities. The gene lets the body draw ambient moisture into thin vapor sheets, cooling the skin and slightly obscuring movement. Federation field manuals consider it modest but practical, particularly on worlds where weather, steam systems, and shoreline fighting are routine.
+## 概述
+雾潮腺是一种 E 级控湿血脉，尤其常见于海洋殖民地、温室空间站和高湿赤道城市。该基因能让身体牵引环境中的水分，形成薄薄的蒸汽幕层，既能降低皮肤温度，也能稍微模糊行动轮廓。联邦野战手册通常将其评价为“朴素但实用”，特别适合那些天气系统、蒸汽设施和海岸线冲突都很常见的世界。
 
-## Signature Traits
-- Condenses nearby humidity into a low, controllable mist layer.
-- Cools the body and slows overheating during exertion.
-- Softens the user's outline against ordinary optics at short range.
-- Improves comfort and focus in wet, tropical, or steam-heavy environments.
+## 核心特征
+- 将附近湿气凝结成可控的低薄雾层。
+- 在运动中为身体降温，延缓过热。
+- 在短距离内削弱普通光学设备对使用者轮廓的辨识。
+- 在潮湿、热带或蒸汽浓重环境中提升舒适度与专注度。
 
-## Combat Use
-Mistwake Gland excels in concealment, retreat coverage, and humid-environment skirmishes. Users can blur sightlines across corridors, wetlands, or docking ramps long enough to reposition a squad. On planets like the Federation's water-rich frontier worlds, even a few seconds of visual disruption can decide whether a patrol survives contact.
+## 战斗应用
+雾潮腺擅长隐蔽、撤退掩护与高湿环境中的小规模交锋。使用者可以在走廊、湿地或登舰斜坡上短暂模糊视线，为小队争取重新站位的时间。在联邦那些水资源丰沛的边疆星球上，哪怕只有几秒钟的视线扰乱，也足以决定一支巡逻队能否活着撑过接触战。
 
-## Limitations
-- Dry climates and sealed interiors drastically reduce available moisture.
-- The mist is too thin to stop thermal scanners or advanced battlefield sensors.
-- Wind, vacuum exposure, or intense heat disperses the effect quickly.
-- The gene does not generate pressurized water attacks.
+## 局限性
+- 干燥气候与密闭室内会大幅削减可调用水分。
+- 雾层过薄，无法阻挡热成像与高级战场传感器。
+- 强风、真空暴露和高热环境都会迅速吹散效果。
+- 该血脉并不能直接生成高压水流攻击。
 
-## Awakening Cues
-- Condensation gathers around the user's hands during stress.
-- Mirrors, visors, and cold surfaces fog more easily nearby.
-- Heat endurance improves in damp environments.
-- The user leaves faint drifting vapor in early-morning training or rainstorms.
+## 觉醒征兆
+- 紧张时，手边会开始聚起细小水珠。
+- 附近的镜面、面罩和冷表面更容易起雾。
+- 在潮湿环境中的耐热能力明显提升。
+- 清晨训练或暴雨天气里，身后会拖出淡淡雾尾。
 
-## Common Progression
-- Lv.1: Moisture responds weakly to emotional spikes.
-- Lv.2: The user can form brief mist patches on demand.
-- Lv.3: Concealment and cooling become dependable in humid zones.
-- Lv.4: Mist shaping gains enough control for squad-level support.
-- Lv.5: The gene reaches refined E-rank battlefield utility short of true water manipulation.
+## 常见成长路径
+- Lv.1：情绪波动时，环境水分会出现轻微响应。
+- Lv.2：能够主动制造短暂雾团。
+- Lv.3：在高湿区域中，隐蔽与降温能力变得稳定可靠。
+- Lv.4：雾层塑形能力足以支援整支小队。
+- Lv.5：达到 E 级战场水汽应用的成熟层次，但仍未触及真正的控水血脉。

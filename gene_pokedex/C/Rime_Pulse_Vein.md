@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Rime Pulse Vein
+## 名称
+霜冲脉络
 
-## Rank
+## 等级
 C
 
-## Category
-Elemental Interference / Cryogenic Emission
+## 分类
+元素干涉系 / 寒能脉冲
 
-## Overview
-Rime Pulse Vein is a C-rank elemental bloodline that generates short bursts of localized cold through the circulatory system and skin surface. Federation academy archives treat it as one of the classic "early ice" awakenings: useful in field operations, hazardous in close combat, and occasionally present in lineages that later produce more terrifying frost-domain variants. On its own, however, it remains an elite but manageable bloodline suited to patrol duty, environmental adaptation, and disciplined tactical use.
+## 概述
+霜冲脉络是一种 C 级元素血脉，能够通过循环系统与皮肤表面释放短促而局部的寒流脉冲。联邦学院档案将其列为经典的“早期冰系”觉醒之一：在野外任务中颇为实用，在近战里具有危险性，也偶尔出现在后续能诞生更恐怖霜域血脉的家系之中。单独来看，它仍属于一种强而可控的精英血脉，适合巡逻执勤、环境适应与纪律化战术运用。
 
-## Signature Traits
-- Emits sudden cold pulses through the hands, breath, or weapon contact points.
-- Preserves stamina in harsh climates by reducing heat loss and inflammation.
-- Creates brittle frost layers on surfaces within arm's reach.
-- Produces pale vapor around the body when the gene is under strain.
+## 核心特征
+- 能通过手掌、吐息或武器接触点释放突发寒流。
+- 通过降低热耗与炎症反应，在恶劣气候中保留更多体力。
+- 可在手臂可及范围内生成脆性薄霜层。
+- 当基因承压时，身体周围会浮现淡白色雾汽。
 
-## Combat Use
-Rime Pulse Vein is valued for control rather than overwhelming force. Users can numb enemy limbs, freeze door seams, make terrain slippery, and reduce the mobility of lightly armored targets. In the field, it supports survival on cold moons and oceanic worlds where thermal regulation matters as much as firepower.
+## 战斗应用
+霜冲脉络的价值更偏向控制，而不是纯粹压倒性杀伤。使用者可以冻麻敌人肢体、冻结门缝、让地面变滑，并削弱轻装目标的机动性。在野外，它也能提高寒月与海洋世界上的生存能力，因为那些地方的热管理往往和火力同样重要。
 
-## Limitations
-- Cryogenic output is shallow and lacks the reach of B-rank battlefield genes.
-- Repeated use in hot or humid environments causes rapid dehydration.
-- The gene struggles against heavy armor, sealed suits, and strong thermal shielding.
-- Losing emotional control often turns the ability into wasteful surface frost.
+## 局限性
+- 寒能输出层次较浅，射程与规模都不及 B 级战场血脉。
+- 在炎热或高湿环境中反复使用，会迅速脱水。
+- 面对重甲、密封服和强热防护时效果有限。
+- 情绪失控时，能力常退化成浪费性的表面结霜。
 
-## Awakening Cues
-- Drinking water or touching metal leaves a brief rim of ice behind.
-- Body temperature remains stable in weather that affects others.
-- The user's breath fogs even in climate-controlled rooms.
-- Stress causes fingertips or eyelashes to crystallize with frost.
+## 觉醒征兆
+- 喝水或触碰金属后，会留下短暂冰边。
+- 在别人感到难熬的天气里，体温却异常稳定。
+- 即便身处恒温室，呼吸仍常带白雾。
+- 压力过大时，指尖或睫毛会析出霜晶。
 
-## Common Progression
-- Lv.1: The user produces weak chill bursts and gains minor cold resistance.
-- Lv.2: Frost can be formed intentionally on tools, gloves, or short contact surfaces.
-- Lv.3: The gene becomes practical for restraint, suppression, and terrain shaping.
-- Lv.4: Cryogenic pulses can slow multiple opponents in a confined area.
-- Lv.5: The bloodline approaches B-rank quality and may evolve toward stronger ice-field or domain-type awakenings under extreme resource investment.
+## 常见成长路径
+- Lv.1：能释放微弱寒流，并获得基础抗寒性。
+- Lv.2：可主动在工具、手套或短接触面上凝出薄霜。
+- Lv.3：该基因开始具备束缚、压制和塑造地形的战术价值。
+- Lv.4：寒能脉冲足以在狭小区域内同时拖慢多名对手。
+- Lv.5：血脉品质逼近 B 级，并可能在极端资源投入下进化为更强的冰场或领域型觉醒。

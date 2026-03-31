@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Abyssal Tide Heart
+## 名称
+深渊潮心
 
-## Rank
+## 等级
 S
 
-## Category
-Elemental Interference / Oceanic Pressure Manipulation
+## 分类
+元素干涉系 / 海洋压强操控
 
-## Overview
-Abyssal Tide Heart is an S-rank marine bloodline recorded across frontier ocean worlds and island defense theaters after the Great Awakening. The gene allows its bearer to compress seawater, shape pressure gradients, and weaponize tide momentum at a scale that exceeds ordinary naval doctrine. On worlds such as Poseidon, even an immature carrier can alter the balance between coastal settlements, beast swarms, and Federation patrol fleets.
+## 概述
+深渊潮心是一种在大觉醒后被记录于边境海洋世界与群岛防线的 S 级海系血脉。它允许持有者压缩水体、塑造压强梯度，并把潮汐动能武器化到超越常规海军战术准则的规模。在波塞冬这类世界上，即便是未成熟持有者，也足以改变沿海聚落、异兽潮和联邦巡逻舰队之间的力量平衡。
 
-## Signature Traits
-- Compresses water into cutting jets, crushing spheres, or layered pressure armor.
-- Maintains stable output in high-humidity, high-gravity, and deep-sea combat zones.
-- Dampens shockwaves, artillery splash, and blunt-force impact through a fluid shell.
-- Grants strong resistance to drowning, decompression trauma, and abyssal panic response.
+## 核心特征
+- 可将水体压缩为切割喷流、碾压球体或分层压强护甲。
+- 在高湿、高重力和深海作战区域中保持稳定输出。
+- 通过流体外壳削弱冲击波、炮火溅射与钝击伤害。
+- 对溺水、减压损伤和深渊恐慌具备极强抗性。
 
-## Combat Use
-Abyssal Tide Heart excels in archipelago warfare, shoreline denial, and anti-beast suppression around harbors or trench approaches. Skilled users can collapse amphibious advances, force sea life out of concealment, and turn ordinary rain, mist, or surf into a tactical weapon that pins heavier enemies in place.
+## 战斗应用
+深渊潮心在群岛战争、海岸封锁和港湾、海沟口附近的反异兽作战中极其强势。熟练者能够粉碎两栖推进、逼出潜藏海生异体，并把普通雨幕、雾气和浪潮都改造成压制重型敌人的战术武器。
 
-## Limitations
-- Output falls sharply in dry terrain without stored water mass or support systems.
-- Pressure fields are difficult to separate cleanly from friendly positions.
-- Overcompression can rupture the user's vessels, sinuses, and inner ear structures.
-- Rapid thermal disruption can destabilize condensed constructs before they fully form.
+## 局限性
+- 缺少储水与支援系统时，在干燥地带输出会急剧下降。
+- 压强场难以与友军站位完全剥离，误伤风险高。
+- 过度压缩会震裂血管、鼻窦和内耳结构。
+- 快速热扰动会在构筑成形前破坏凝聚体稳定性。
 
-## Awakening Cues
-- The iris develops a dark blue ring threaded with moving silver flecks.
-- The body remains unnaturally calm during crush-depth drills or flood simulations.
-- Nearby liquids ripple inward when the user is frightened or angered.
-- The user begins hearing low oceanic tones in sealed rooms or vacuum chambers.
+## 觉醒征兆
+- 虹膜会浮现带有流动银屑的深蓝色环。
+- 在深压训练与洪水模拟中，身体会异常冷静。
+- 愤怒或恐惧时，周围液体会向身体内卷涟漪。
+- 在密闭房间或真空舱中开始听见低沉海潮回响。
 
-## Common Progression
-- Lv.1: The bearer stabilizes water armor and produces crude pressure bursts.
-- Lv.2: Compressed jets, tidal pulls, and anti-impact shells become usable in short engagements.
-- Lv.3: Multi-vector pressure zones can dominate a dockyard, bay, or fortified shoreline.
-- Lv.4: The gene supports sustained maritime combat against elite beasts and armored vehicles.
-- Lv.5: The user becomes a council-monitored sea-war asset capable of contesting small warships alone.
+## 常见成长路径
+- Lv.1：能稳定水甲，并释放粗糙的压强爆冲。
+- Lv.2：压缩水流、潮汐牵引与抗冲壳体可用于短时交战。
+- Lv.3：多向压强区足以统治码头、海湾或加固海岸线。
+- Lv.4：该基因可支撑对精英异兽与装甲单位的长期海战。
+- Lv.5：成为受议会监控的海战战略资产，可单人抗衡小型战舰。

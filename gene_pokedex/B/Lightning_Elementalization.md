@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Lightning Elementalization
+## 名称
+雷霆元素化
 
-## Rank
+## 等级
 B
 
-## Category
-Elemental Interference / Lightning Conversion
+## 分类
+元素干涉系 / 雷霆转化
 
-## Overview
-Lightning Elementalization is a classic B-rank tactical bloodline and one of the better-known benchmarks for admission into top Federation combat academies. The gene allows the bearer to convert parts of the body into active lightning-state matter, dramatically increasing movement speed, penetration power, and strike tempo. Its battlefield value is obvious, but so is its burden: the bloodline is notoriously exhausting, and immature users often burn through their stamina long before a fight is decided.
+## 概述
+雷霆元素化是典型的 B 级战术血脉，也是联邦顶级战斗学院最常见的录取门槛之一。该基因能让持有者把部分身体转化为活性雷霆态物质，大幅提升机动速度、穿透力与连击节奏。它的战场价值一目了然，但代价同样明显：这条血脉极其耗体力，未成熟的使用者往往会在战斗分出胜负前就先把自己榨干。
 
-## Signature Traits
-- Partial conversion of limbs or torso into high-voltage lightning form.
-- Extreme burst acceleration and angle-breaking movement.
-- Enhanced armor penetration through electrical discharge and kinetic spike.
-- Short-lived electromagnetic interference around the user's body and gear.
+## 核心特征
+- 可将四肢或躯干局部转化为高压雷电形态。
+- 具备极端爆发加速与打破常规角度的位移能力。
+- 通过电放电与动能尖峰提升破甲效果。
+- 在身体与装备周围形成短暂电磁干扰。
 
-## Combat Use
-Lightning Elementalization is built for decisive engagements. Users cross kill zones in an instant, punch through defense lines, and overload targets with chained impacts before ordinary opponents can react. In small-team warfare, the gene is ideal for spearhead assaults, pursuit, rescue insertion, and precision elimination of high-value threats.
+## 战斗应用
+雷霆元素化专为决胜性交战而生。持有者能够瞬间越过火力封锁区、冲穿防线，并在普通对手反应过来之前用连续冲击把目标打到过载。在小队作战中，它尤其适合突击矛头、追击、强行救援突入与高价值目标定点清除。
 
-## Limitations
-- Partial elemental conversion drains stamina at a severe rate.
-- Prolonged use stresses the cardiovascular system and muscular recovery.
-- Conductive terrain, water-heavy battlefields, and jamming grids increase risk.
-- The gene favors short violent exchanges and performs poorly in drawn-out attrition.
+## 局限性
+- 局部元素化会以极快速度消耗体力。
+- 长时间使用会严重压榨心血管系统与肌肉恢复能力。
+- 导电地形、富水战场和干扰网会显著增加风险。
+- 它偏好短促而暴烈的交锋，在持久消耗战里表现很差。
 
-## Awakening Cues
-- Blue arcs flashing across the skin during fear, anger, or intense focus.
-- Electronic devices glitching when the user exerts themselves.
-- Sprint times suddenly surpassing prior athletic benchmarks by impossible margins.
-- A sensation that the body is "too slow" unless current is moving through it.
+## 觉醒征兆
+- 恐惧、愤怒或高度专注时，皮肤表面会闪过蓝色电弧。
+- 发力时，周围电子设备会频繁失灵。
+- 冲刺成绩突然以不合理的幅度超越原有上限。
+- 若体内没有“电流在流动”，就会产生身体过于迟缓的异样感。
 
-## Common Progression
-- Lv.1: The user generates sparks and brief limb-only conversion.
-- Lv.2: Lightning-assisted dashes and impact strikes become combat-viable.
-- Lv.3: Multi-step burst movement and stable discharge attacks enter regular use.
-- Lv.4: The bearer sustains repeated elemental conversion in squad-level engagements.
-- Lv.5: The bloodline reaches peak B-rank lethality and may begin touching the threshold of rule-based storm or plasma evolutions.
+## 常见成长路径
+- Lv.1：开始产生火花，并能短暂完成单肢元素化。
+- Lv.2：雷电辅助冲刺与撞击技具备实战可行性。
+- Lv.3：多段爆发位移与稳定放电攻击进入常规战术库。
+- Lv.4：可在小队级交战中反复维持元素转化。
+- Lv.5：达到 B 级杀伤上限，并可能开始触碰规则化风暴或等离子进化的门槛。

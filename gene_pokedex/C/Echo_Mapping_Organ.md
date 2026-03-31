@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Echo Mapping Organ
+## 名称
+回声测绘器官
 
-## Rank
+## 等级
 C
 
-## Category
-Mental Perception / Spatial Sensing
+## 分类
+精神感知系 / 空间感知
 
-## Overview
-Echo Mapping Organ is a C-rank perception bloodline that grows an abnormal sensory network around the inner ear, cranial nerves, and electromagnetic awareness centers. The result is a living tactical scanner capable of reading motion through walls, fog, shallow water, or darkness. Federation frontier teams prize the gene because it greatly improves navigation and ambush prevention without demanding the political oversight reserved for higher mental bloodlines.
+## 概述
+回声测绘器官是一种 C 级感知血脉，会在内耳、颅神经和电磁感知中枢周边形成异常感官网络。它的结果是一台“活体战术扫描仪”，可以隔着墙体、浓雾、浅水或黑暗读取动态信息。联邦边疆小队十分看重这一血脉，因为它能显著提升导航与反伏击能力，却不需要高阶精神血脉那种政治级监管。
 
-## Signature Traits
-- Builds short-range three-dimensional maps from vibration and reflected signal noise.
-- Detects hidden movement through smoke, rain, jungle canopy, or urban cover.
-- Improves balance and orientation under unstable gravity.
-- Gives the bearer an instinctive sense for hollow structures and weak points.
+## 核心特征
+- 依靠震动与反射信号噪声构建近距离三维地图。
+- 能在烟雾、暴雨、丛林树冠和城市掩体后侦测隐蔽活动。
+- 在不稳定重力环境中提升平衡与方向感。
+- 对中空结构和脆弱点具备近乎本能的感知。
 
-## Combat Use
-Echo Mapping Organ turns chaotic terrain into readable space. Users can track flankers in dense forests, sense tunnel intersections underground, and call out enemy positions before visual confirmation. It is especially effective in boarding combat, ruin exploration, and anti-smuggler sweeps where line of sight is unreliable.
+## 战斗应用
+回声测绘器官能把混乱地形转化为可读空间。使用者可以在密林中追踪侧袭者，在地下感知隧道交叉点，并在尚未目视确认前就报出敌方位置。它在登舰战、遗迹探索和缉私清剿中尤其高效，因为这些场景的视线条件往往极不可靠。
 
-## Limitations
-- Range is modest and falls sharply against layered stealth materials.
-- Continuous mapping causes vertigo, ringing ears, and concentration fatigue.
-- Overcrowded battlefields can flood the user with false positives.
-- The gene offers information, not automatic lethality; poor fighters still lose.
+## 局限性
+- 感知范围有限，面对分层隐形材料时衰减尤为明显。
+- 持续测绘会导致眩晕、耳鸣和注意力疲劳。
+- 过于拥挤的战场会给使用者灌入大量假阳性信号。
+- 该基因提供的是情报，不会自动把弱者变成杀手。
 
-## Awakening Cues
-- Hearing footsteps, machinery, or heartbeats before others can.
-- Navigating dark rooms or storm conditions with abnormal confidence.
-- Feeling discomfort near hidden voids, shafts, or unstable corridors.
-- Frequent dreams rendered as wireframe spaces or moving silhouettes.
+## 觉醒征兆
+- 会比别人更早听见脚步、机械运转或心跳。
+- 在黑屋或暴风环境中行动时表现出异常从容。
+- 靠近隐藏空洞、深井或不稳走廊时会本能不适。
+- 梦境常以线框空间或移动剪影的形式出现。
 
-## Common Progression
-- Lv.1: The user senses nearby movement through vibration and sound distortion.
-- Lv.2: Basic spatial outlines form in darkness or behind thin obstacles.
-- Lv.3: Combat-relevant target tracking becomes reliable in cluttered environments.
-- Lv.4: The gene distinguishes decoys, layered positions, and structural traps.
-- Lv.5: The bearer functions as a compact living radar array, often qualifying for advanced academy scouting tracks or Federation reconnaissance posts.
+## 常见成长路径
+- Lv.1：能通过震动和声波扭曲感知近处活动。
+- Lv.2：在黑暗或薄障碍后形成基础空间轮廓。
+- Lv.3：杂乱环境中的战斗级目标追踪开始可靠。
+- Lv.4：能够区分诱饵、分层部署与结构陷阱。
+- Lv.5：化身紧凑型活体雷达阵列，常据此进入高级学院侦察路线或联邦侦察岗位。

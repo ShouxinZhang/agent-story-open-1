@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Conductive Nerve Mesh
+## 名称
+导电神经网
 
-## Rank
+## 等级
 C
 
-## Category
-Body Supremacy / Bioelectric Conduction
+## 分类
+肉体超体系 / 生物电传导
 
-## Overview
-Conductive Nerve Mesh is a C-rank body bloodline commonly found among Federation scouts, shipboard technicians, and low-gravity security personnel. The gene reinforces nerve pathways with bioelectric conductivity, allowing the bearer to issue movement commands faster than baseline awakened humans while maintaining unusual hand precision. In the post-Great Awakening era, it is considered a reliable elite bloodline: not spectacular enough to redefine a battlefield, but strong enough to separate trained operatives from the civilian majority.
+## 概述
+导电神经网是一种 C 级肉体系血脉，常见于联邦侦察兵、舰载技术员和低重力安保人员。该基因会以生物电导的方式强化神经通路，让使用者比普通觉醒者更快地下达动作指令，同时维持异常精细的手部控制。在大觉醒后的联邦体系里，它被视为一种可靠的精英级血脉：不足以单独改写战场，却足够把训练有素的作战人员与大多数平民清晰区分开来。
 
-## Signature Traits
-- Accelerated neural signaling that sharpens reaction speed.
-- Fine motor stability during high-G stress or equipment recoil.
-- Mild electric resistance against stun batons, arc leakage, and training shocks.
-- Faint blue luminescence along the forearms during peak exertion.
+## 核心特征
+- 神经信号传递加速，显著提高反应速度。
+- 在高重力压力或装备后坐中依然保持精细动作稳定。
+- 对电击棍、弧光泄漏和训练电击具备轻度抗性。
+- 在极限出力时，前臂会浮现淡蓝色微光。
 
-## Combat Use
-Conductive Nerve Mesh excels in close-quarters skirmishes, rapid weapon transitions, and exosuit piloting. Users can draw, aim, and reposition faster than ordinary C-rank awakeners, making the gene popular in boarding actions and campus combat leagues. It also improves timing-dependent tasks such as drone interception, blade parries, and emergency repair under fire.
+## 战斗应用
+导电神经网擅长近距离缠斗、快速切枪与外骨骼驾驶。使用者可以比普通 C 级觉醒者更快完成拔枪、瞄准与换位，因此在登舰战和校园战斗联赛中很受欢迎。它也能提升许多依赖时机的任务表现，比如拦截无人机、刀刃格挡，以及在火力压制下抢修设备。
 
-## Limitations
-- The gene boosts transmission speed, not raw destructive output.
-- Overdriving the mesh can cause tremors, numb fingertips, and temporary muscle lock.
-- Ionized environments may produce painful feedback in untrained users.
-- Against B-rank elemental or heavy body bloodlines, it loses direct power contests quickly.
+## 局限性
+- 该基因强化的是传导速度，而非纯粹破坏力。
+- 过载驱动会导致颤抖、指尖麻木和短暂肌肉锁死。
+- 电离环境会给缺乏训练者带来痛苦的反向反馈。
+- 面对 B 级元素系或重型肉体系血脉时，正面拼硬实力会很快落下风。
 
-## Awakening Cues
-- Repeated static discharge from fingertips during emotional spikes.
-- Reflex tests improving beyond prior training history in a matter of weeks.
-- A persistent sensation of "phantom current" moving under the skin.
-- Exceptional performance with precision tools, sidearms, or cockpit controls.
+## 觉醒征兆
+- 情绪波动时，指尖会反复出现静电放电。
+- 反应测试成绩在数周内超出过往训练曲线。
+- 皮下持续有“幻电流”流动的感觉。
+- 操作精密工具、手枪或驾驶舱控制界面时表现异常突出。
 
-## Common Progression
-- Lv.1: Reflex speed increases and static build-up becomes noticeable.
-- Lv.2: The user gains stable high-speed coordination in drills and sparring.
-- Lv.3: Bioelectric resistance and rapid weapon handling become dependable assets.
-- Lv.4: The body sustains burst-response combat for extended engagements.
-- Lv.5: Neural conduction approaches the edge of B-rank tactical utility, often serving as a stepping stone to stronger lightning-adjacent bloodlines.
+## 常见成长路径
+- Lv.1：反应速度提升，静电积累开始显眼。
+- Lv.2：在演练与对抗中获得稳定的高速协调能力。
+- Lv.3：生物电抗性与快速持械操作成为可靠优势。
+- Lv.4：身体可以长时间维持爆发反应式战斗。
+- Lv.5：神经传导效率逼近 B 级战术实用边缘，常被视作更强雷系旁支血脉的前置阶梯。

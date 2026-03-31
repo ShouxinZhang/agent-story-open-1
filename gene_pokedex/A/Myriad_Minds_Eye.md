@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Myriad Mind's Eye
+## 名称
+万象心眼
 
-## Rank
+## 等级
 A
 
-## Category
-Mental Perception / Structural Omniscience
+## 分类
+精神感知系 / 结构全知
 
-## Overview
-Myriad Mind's Eye is an A-rank strategic perception bloodline whose users read matter, movement, and intent as if reality were an open schematic. The gene is exceptionally rare because it combines several high-order functions at once: structural analysis, danger prediction, sensory penetration, and shallow thought-wave interception. In the Federation's classified assessment manuals, a mature bearer is treated less like a scout and more like a live strategic intelligence platform.
+## 概述
+万象心眼是一种 A 级战略感知血脉，其持有者能像阅读展开的工程蓝图一样读取物质、动作与意图。它极为稀有，因为它把结构解析、危险预判、感官穿透与浅层思波截获等多个高阶功能同时纳入一体。在联邦的机密评估手册中，成熟持有者已不再被视为侦察兵，而更接近一座活体战略情报平台。
 
-## Signature Traits
-- Perceives material structure, weak points, and hidden mechanisms at a glance.
-- Predicts hostile trajectories before they fully resolve.
-- Briefly intercepts surface-level thought fluctuations under tension.
-- Filters noise and camouflage that would deceive ordinary sensors.
+## 核心特征
+- 一眼看穿物质结构、脆弱点和隐藏机构。
+- 在敌方轨迹完全落实前完成预判。
+- 在高度紧张状态下短暂截获表层思维波动。
+- 过滤足以欺骗常规传感器的噪声与伪装。
 
-## Combat Use
-Myriad Mind's Eye turns uncertainty into exploitable information. Users can dissect enemy techniques mid-fight, identify the safest movement path through crossfire, and expose concealed traps, snipers, or infiltrators. In command scenarios, the bloodline is invaluable for target calling, relic analysis, negotiation pressure, and ruin exploration where one mistake can doom an expedition.
+## 战斗应用
+万象心眼会把不确定性转化为可利用的信息。使用者可以在战斗中途拆解敌方技术逻辑，找出穿越交叉火力的最安全路线，并揪出隐藏陷阱、狙击位和潜入者。在指挥层面，它对目标点名、遗物解析、谈判压制和遗迹探索都极有价值，因为这些场景里一次误判就足以葬送整次行动。
 
-## Limitations
-- Information density can overwhelm the mind, especially in mass combat or dense urban data fields.
-- The gene does not grant automatic physical power; the body must keep pace with the mind.
-- Strong psychic shielding, false-signal environments, and conceptual distortions degrade accuracy.
-- Mature users are vulnerable to insomnia, emotional detachment, and sensory fatigue.
+## 局限性
+- 信息密度过高时，大脑很容易被压垮，尤其是在大规模交战和高密度城市数据环境中。
+- 该基因不自动提供身体强度，肉身必须跟得上感知。
+- 强力心灵屏障、伪信号环境与概念扭曲都会削弱精度。
+- 成熟使用者常见失眠、情感疏离与感官疲劳。
 
-## Awakening Cues
-- Seeing layered details in objects that others consider ordinary.
-- Avoiding danger before any visible trigger appears.
-- Accidentally finishing other people's tactical thoughts or spoken intentions.
-- Experiencing migraines in crowded transport hubs, relic vaults, or combat simulations.
+## 觉醒征兆
+- 会在他人眼中普通的物体里看见层层叠叠的细节。
+- 在任何明显征兆出现前就先一步避开危险。
+- 不经意间接上别人的战术思路或未说完的意图。
+- 在拥挤交通枢纽、遗物库或战斗模拟中频繁偏头痛。
 
-## Common Progression
-- Lv.1: The user notices weak points, hidden seams, and immediate threats instinctively.
-- Lv.2: Trajectory prediction and shallow structure reading become stable in combat.
-- Lv.3: Thought-wave interception and deep material analysis emerge under focus.
-- Lv.4: The gene supports battlefield-wide perception, command guidance, and relic interpretation.
-- Lv.5: The bearer reaches the strategic ceiling of A-rank perception, bordering on the forbidden cognition lineages recorded in higher Federation archives.
+## 常见成长路径
+- Lv.1：会本能注意到弱点、缝隙和眼前威胁。
+- Lv.2：轨迹预判与浅层结构识别在战斗中趋于稳定。
+- Lv.3：在专注状态下出现思波截取与深层物质分析。
+- Lv.4：可支撑整片战场的广域感知、指挥引导和遗物解释。
+- Lv.5：达到 A 级感知血脉的战略顶点，开始逼近联邦更高机密档案中记载的禁忌认知谱系。

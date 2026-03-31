@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Thalassic Crown of Judgment
+## 名称
+沧海裁决之冠
 
-## Rank
+## 等级
 SS
 
-## Category
-Elemental Interference / Storm-Sea Dominion
+## 分类
+元素干涉系 / 风暴海权
 
-## Overview
-Thalassic Crown of Judgment is an SS-rank imperial ocean bloodline that fuses storm command, tidal authority, and atmospheric enforcement into a single lineage. Colonial legends describe it as the mark of sea kings because an awakened bearer can punish flotillas, split weather fronts, and turn whole coastlines into execution grounds during wartime.
+## 概述
+沧海裁决之冠是一种 SS 级海洋帝权血脉，把风暴支配、潮汐权柄和大气裁断熔于同一谱系。殖民地传说把它称为“海王之印”，因为觉醒者能够惩戒舰群、劈开锋面，并在战争中把整条海岸线化作审判场。
 
-## Signature Traits
-- Commands hurricane-class wind, lightning, surf, and rain inside a linked battle domain.
-- Marks hostile targets with conductive tide sigils that invite repeated storm strikes.
-- Builds layered sea-and-sky armor that refreshes while the domain remains stable.
-- Elevates allied morale while inducing dread and submission in weaker organisms nearby.
+## 核心特征
+- 在联动战斗领域内支配飓风级狂风、雷电、怒涛与暴雨。
+- 以导电潮汐印记锁定敌人，引来连续风暴打击。
+- 构筑海天叠层甲，只要领域稳定便可持续刷新。
+- 提升友军士气，同时向附近较弱生命体施加恐惧与臣服感。
 
-## Combat Use
-This gene is optimized for archipelagos, naval war, evacuation cover, and large-scale beast extermination on ocean planets. At high expression, one user can break a blockade, erase landing forces before beach contact, and hold open a coastal corridor long enough for civilians or fleets to escape.
+## 战斗应用
+这条基因为群岛战、海军决战、撤离掩护和海洋星球的大规模异兽清剿而生。表达度足够高时，单一使用者就能打碎封锁线、在敌军登陆前抹除滩头兵力，并长时间撑开一条让平民或舰队脱离的海岸通道。
 
-## Limitations
-- Domain setup is slower than simpler elemental bloodlines.
-- Inland deserts, sealed installations, and vacuum environments weaken the storm cycle.
-- Emotional instability can contaminate weather patterns and strike indiscriminately.
-- Long activations place heavy strain on the circulatory system, lungs, and vocal cords.
+## 局限性
+- 领域构筑速度慢于更简单的元素血脉。
+- 内陆沙漠、密封设施和真空环境会明显削弱风暴循环。
+- 情绪不稳会污染天气系统，导致无差别打击。
+- 长时间维持会重压循环系统、肺部与声带。
 
-## Awakening Cues
-- Thunder answers the user even under a clear sky.
-- Salt condensation gathers around the head and shoulders like a crown.
-- Small fish, rain droplets, or airborne spray begin orbiting the host under stress.
-- The user's voice gains an involuntary echo during storms or near rough surf.
+## 觉醒征兆
+- 即便晴空万里，雷声也会对其做出回应。
+- 头颈与肩部会凝聚如王冠般的盐雾。
+- 小鱼、雨滴或飞溅水珠会在高压下绕体盘旋。
+- 暴风天或巨浪附近，说话声会自带无法抑制的回响。
 
-## Common Progression
-- Lv.1: The gene manifests as elite storm resistance and unstable lightning discharge.
-- Lv.2: Wind, rain, and surf can be linked into short-lived tactical patterns.
-- Lv.3: A coherent execution field forms across a harbor, island chain, or fleet lane.
-- Lv.4: Tide sigils and layered armor let the bearer dominate prolonged coastal war.
-- Lv.5: The lineage matures into a sovereign disaster-grade weapon tracked continuously by Federation crisis offices.
+## 常见成长路径
+- Lv.1：表现为卓越的风暴抗性与不稳定雷击放电。
+- Lv.2：能够把风、雨、浪联结成短效战术构型。
+- Lv.3：在港湾、群岛或舰道上形成完整的处决领域。
+- Lv.4：潮汐印记与叠层护甲足以支配长期海岸战争。
+- Lv.5：谱系成熟为主权级灾厄武器，持续受联邦危机办公室追踪监视。

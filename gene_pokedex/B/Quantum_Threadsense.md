@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Quantum Threadsense
+## 名称
+量子丝线感知
 
-## Rank
+## 等级
 B
 
-## Category
-Mental Perception / Predictive Targeting
+## 分类
+精神感知系 / 预测锁定
 
-## Overview
-Quantum Threadsense is a B-rank perception bloodline that lets the mind sample the most immediate movement possibilities in a fight. It does not truly read the future, but it maps probable action threads quickly enough that to ordinary opponents it appears prophetic. In the Federation's internal doctrine, the gene is classified as a tactical cognition bloodline with exceptional value in duels, command support, and anti-ambush work.
+## 概述
+量子丝线感知是一种 B 级感知血脉，能让大脑在战斗中快速抽样最临近的动作可能性。它并不是真正看见未来，而是能以极快速度描摹出高概率行动丝线，因此在普通对手眼中几乎像预言一般。按照联邦内部战术准则的划分，这是一条在决斗、指挥支援与反伏击领域拥有极高价值的战术认知血脉。
 
-## Signature Traits
-- Reads short-term action probabilities as directional "threads."
-- Predicts likely firing lanes, dodge routes, and feint patterns.
-- Improves target leading for both ranged and melee engagements.
-- Sharpens attention under stress without fully severing emotional response.
+## 核心特征
+- 将短时行动概率感知为带有方向性的“丝线”。
+- 预测常见射界、闪避路线与假动作模式。
+- 提升远近战中的预判引导能力。
+- 在高压下显著强化专注，但不会完全切断情绪。
 
-## Combat Use
-Quantum Threadsense is a fight-control bloodline. Users intercept attacks before full extension, guide allies away from kill boxes, and exploit the tiny hesitation windows that decide close battles. It is especially dangerous in trained hands because it multiplies existing technique rather than replacing it.
+## 战斗应用
+量子丝线感知本质上是一条控战血脉。使用者能够在攻击完全伸展前完成拦截，把队友从必死火力盒中拉开，并利用那些决定近距离胜负的微小迟疑窗口。它在训练有素的人手中格外危险，因为它不是替代技术，而是把既有技术成倍放大。
 
-## Limitations
-- Prediction windows are short and degrade in chaotic multi-front battles.
-- Stronger mental bloodlines, domain effects, or information warfare can blur the threads.
-- The gene encourages overconfidence if the user mistakes probability for certainty.
-- Headaches and visual afterimages become common after prolonged high-focus combat.
+## 局限性
+- 预测窗口很短，在多线混战中会迅速劣化。
+- 更强的精神血脉、领域干涉和信息战污染会让“丝线”变得模糊。
+- 若把概率误认为确定性，使用者很容易产生过度自信。
+- 长时间高集中作战后，头痛与视觉残影会变得常见。
 
-## Awakening Cues
-- Catching thrown or fired objects before conscious thought catches up.
-- Repeatedly moving away from danger a split second before it manifests.
-- Seeing combat drills as branching pathways rather than isolated motions.
-- Mental fatigue after crowded simulations or multi-target sparring.
+## 觉醒征兆
+- 会在意识跟上之前先接住投掷物或来袭物。
+- 常在危险显现前一瞬先一步侧身避开。
+- 在训练对抗中，不再把动作看成单点，而是分支路径。
+- 拥挤模拟或多目标对练后会出现明显精神疲劳。
 
-## Common Progression
-- Lv.1: Brief flashes of likely movement occur during stress.
-- Lv.2: The user begins reacting to probable attacks before visual confirmation.
-- Lv.3: Thread reading becomes useful for active dueling and squad support.
-- Lv.4: The bearer tracks several hostile vectors at once in tactical engagements.
-- Lv.5: The gene reaches the upper B-rank ceiling and may evolve toward rarer strategic foresight or extreme perception bloodlines.
+## 常见成长路径
+- Lv.1：在高压下闪现短促的高概率动作预感。
+- Lv.2：开始在视觉确认前对可能攻击做出反应。
+- Lv.3：丝线判读对主动决斗与小队支援都开始有用。
+- Lv.4：能在战术交战中同时跟踪多条敌对向量。
+- Lv.5：达到 B 级感知上限，并可能向更稀有的战略预见或极端感知血脉演化。

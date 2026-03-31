@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Frost Domain
+## 名称
+霜域
 
-## Rank
+## 等级
 A
 
-## Category
-Elemental Interference / Cryogenic Domain
+## 分类
+元素干涉系 / 深寒领域
 
-## Overview
-Frost Domain is an A-rank strategic bloodline feared for its ability to impose extreme cold as a localized law rather than a simple temperature attack. Within a designated area, the bearer suppresses heat transfer, slows material motion, and turns the environment itself into an execution ground. Federation aristocratic houses and high command treat the gene as a serious force multiplier because a mature user can lock down streets, fortifications, landing zones, or entire monster nests with a single activation.
+## 概述
+霜域是一种 A 级战略血脉，令人畏惧之处在于它施加的不是单纯低温，而是把“极寒”作为局部规则强行覆盖现实。在指定区域内，持有者可以压制热传导、迟滞物质运动，并把整个环境改造成处刑场。联邦贵族世家和高层军部都把它视作极具分量的战略增幅器，因为成熟持有者只需一次展开，就能冻结街区、防御工事、登陆区，甚至整片异兽巢穴。
 
-## Signature Traits
-- Establishes a controlled cryogenic field over a chosen area.
-- Freezes terrain, projectiles, vapor, and exposed machinery with escalating severity.
-- Reduces enemy mobility while strengthening the user's environmental control.
-- Forms ice constructs, barriers, and kill funnels inside the active domain.
+## 核心特征
+- 在选定区域建立可控的深寒场。
+- 以递增强度冻结地形、投射物、水汽和裸露机械。
+- 在削弱敌方机动的同时强化自身环境支配力。
+- 在领域内塑造冰构件、壁障和处决走廊。
 
-## Combat Use
-Frost Domain excels in area denial, defense, suppression, and battlefield shaping. A single user can halt charges, partition large engagements, and erase mobility advantages from faster enemies. In expeditionary warfare, it is also used to stabilize collapsing structures, freeze breaches in pressure hulls, and contain biohazards before they spread.
+## 战斗应用
+霜域在区域封锁、防守、压制和战场塑形方面极具优势。单个使用者就能截停冲锋、切割大规模战团，并抹除高速敌人的机动优势。在远征作战里，它还可用于稳固坍塌结构、冻结压力舱破口，以及在生化灾害扩散前完成封控。
 
-## Limitations
-- The domain consumes immense energy and punishes weak physical conditioning.
-- Allies inside the field require coordination, equipment, or prior adaptation.
-- Strong thermal weapons, rival domains, and extreme environmental instability can fracture control.
-- Overexpansion risks feedback injury such as tissue crystallization or circulatory shock.
+## 局限性
+- 领域展开消耗极大，对身体底子差的人惩罚极重。
+- 友军若要进入领域，必须有协同、装备或提前适应。
+- 强热兵器、敌对领域和极端环境失稳都会撕裂控制力。
+- 过度扩张可能造成组织晶化、循环休克等反馈损伤。
 
-## Awakening Cues
-- Moisture freezes around the user without direct contact.
-- Emotional distress causes room temperature to plunge abruptly.
-- The user instinctively "marks" space before freezing it.
-- Small areas remain unnaturally cold long after the user has departed.
+## 觉醒征兆
+- 周围水分会在没有接触的情况下自行结冰。
+- 情绪失控时，室温会骤然下坠。
+- 使用者会在冻结之前本能地“标记”空间。
+- 人离开许久后，小范围区域仍持续异常寒冷。
 
-## Common Progression
-- Lv.1: The user produces stable freezing zones around contact points and nearby surfaces.
-- Lv.2: A small operational field can be maintained in combat with deliberate control.
-- Lv.3: Battlefield partitioning and rapid terrain freeze become dependable assets.
-- Lv.4: The domain expands to strategic scale, controlling large engagements or fortified positions.
-- Lv.5: The bearer approaches top-tier A-rank authority, where entering the domain without preparation is often equivalent to accepting death.
+## 常见成长路径
+- Lv.1：能在接触点与邻近表面制造稳定冰冻区。
+- Lv.2：可在战斗中有意识维持小型作战领域。
+- Lv.3：战场切割与高速冻地成为可靠战术资产。
+- Lv.4：领域扩张至战略级，足以控制大规模交战或加固阵地。
+- Lv.5：逼近 A 级顶层支配力，未经准备闯入领域往往等同于主动赴死。

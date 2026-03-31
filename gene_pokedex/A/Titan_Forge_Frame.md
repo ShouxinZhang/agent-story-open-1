@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Titan Forge Frame
+## 名称
+泰坦锻躯
 
-## Rank
+## 等级
 A
 
-## Category
-Body Supremacy / Warform Integration
+## 分类
+肉体超体系 / 战形整合
 
-## Overview
-Titan Forge Frame is an A-rank strategic body bloodline that turns the bearer into a living siege platform. Rather than merely increasing strength, the gene rebuilds skeletal density, muscular layering, shock absorption, and metabolic throughput to the point that heavy weapons, powered armor interfaces, and extreme recoil become natural extensions of the body. Among Federation military planners, it is classified as a one-person lineholder gene capable of altering the outcome of local wars.
+## 概述
+泰坦锻躯是一种 A 级战略肉体系血脉，能把持有者变成活体攻城平台。它提升的不只是力量，而是连骨密度、肌肉层级、缓冲吸震和代谢吞吐都一并重构到夸张程度，使重武器、动力甲接口与极端后坐力都像身体原生的一部分。联邦军方策划部门把它视作一种足以凭单人改写局部战争走势的“单线持战”基因。
 
-## Signature Traits
-- Massive gains in load-bearing capacity, impact resistance, and sustained force output.
-- Internal shock-dampening that allows safe use of oversized weapons and armor systems.
-- Rapid battlefield adaptation through hardened bone lattice and reinforced organ shielding.
-- Visible metallic glow or heat-haze patterns across the frame during peak release.
+## 核心特征
+- 负重能力、抗冲击性和持续输出力大幅上升。
+- 内部减震结构使超规格武器与装甲系统得以安全使用。
+- 通过硬化骨格与强化器官护层实现快速战场适应。
+- 在峰值释放时，躯体表面会出现类似金属光泽或热浪纹。
 
-## Combat Use
-Titan Forge Frame is built for breakthrough warfare. Users hold breach points alone, carry anti-ship class support weapons on foot, and physically contest monstrous lifeforms that would crush ordinary awakeners. In defensive campaigns, a mature bearer can anchor evacuation corridors, shield command assets, and keep fighting under punishment that would destroy armored vehicles.
+## 战斗应用
+泰坦锻躯天生适合突破战。使用者能单人守住破口、徒步携带反舰级支援武器，并以肉身对抗足以碾死普通觉醒者的巨型生命体。在防御战中，成熟持有者可以撑住撤离通道、保护指挥中枢，并在足以摧毁装甲载具的打击下继续作战。
 
-## Limitations
-- The bloodline demands enormous caloric intake, recovery resources, and gene-stabilizing treatment.
-- Speed and stealth are inferior to many elemental or perception-focused A-rank genes.
-- Overuse can trigger organ stress, microfracture cascades, or catastrophic metabolic crash.
-- Urban operations risk collateral damage even when the user is trying to show restraint.
+## 局限性
+- 该血脉需要极其庞大的热量、恢复资源和基因稳定治疗。
+- 速度与隐蔽性逊于许多元素系或感知系 A 级血脉。
+- 过度使用可能引发脏器过载、微骨裂连锁和灾难性代谢崩溃。
+- 即便有意克制，在城市作战中依旧很容易造成附带破坏。
 
-## Awakening Cues
-- Standard training equipment bends, cracks, or fails during routine use.
-- The body feels "too dense" in low-gravity transit or standard furniture.
-- Recovery from blunt trauma far exceeds medical expectation.
-- Stress causes a furnace-like pressure to build through the spine and shoulders.
+## 觉醒征兆
+- 常规训练器材会在日常使用中弯折、开裂或直接损坏。
+- 在低重力交通工具或普通家具上，会觉得自己的身体“过于沉重”。
+- 对钝击伤的恢复速度远超医疗预期。
+- 压力上升时，脊柱与肩部会积聚熔炉般的压迫感。
 
-## Common Progression
-- Lv.1: The user displays abnormal load tolerance and blunt-force resistance.
-- Lv.2: Heavy weapon integration and armored combat become practical.
-- Lv.3: The frame sustains repeated high-force engagements without immediate breakdown.
-- Lv.4: The bearer functions as a strategic breach unit or mobile fortress in prolonged campaigns.
-- Lv.5: Titan Forge Frame reaches mature A-rank warform status, where entire formations are built around the user's presence.
+## 常见成长路径
+- Lv.1：展现异常负重承受力与抗钝击性。
+- Lv.2：重武器整合与装甲化战斗开始成为现实。
+- Lv.3：可连续承受高强度交锋而不立即崩坏。
+- Lv.4：在长期战役中作为战略突破单元或移动堡垒运作。
+- Lv.5：成长为成熟 A 级战争形态核心，整支部队的编制都会围绕其存在展开。

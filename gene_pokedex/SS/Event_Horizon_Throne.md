@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Event Horizon Throne
+## 名称
+事件视界王座
 
-## Rank
+## 等级
 SS
 
-## Category
-Space Interference / Gravity Dominion
+## 分类
+空间干涉系 / 引力支配
 
-## Overview
-Event Horizon Throne is an SS-rank sovereign bloodline that grants command over localized gravity wells, trajectory collapse, and battlefield-scale suppression domains. The Interstellar Federation classifies it as a planetary-threat gene because even incomplete awakening can cripple fleets, break fortress districts, and reshape terrain with consequences visible from orbit.
+## 概述
+事件视界王座是一种 SS 级王权血脉，赋予持有者对局部引力井、轨迹坍缩和战场级压制领域的支配权。星际联邦将其定义为“行星威胁型基因”，因为即便只是半成熟觉醒，也足以瘫痪舰队、碾碎要塞城区，并重塑地表到能从轨道上直接看见后果的地步。
 
-## Signature Traits
-- Generates crushing gravity domains that pin targets and shear structures apart.
-- Creates micro-singularity anchors for movement denial, defense, or forced repositioning.
-- Distorts enemy balance, targeting solutions, and time sense through gravitational stress.
-- Allows the bearer to move through their own pressure field as if it were normal space.
+## 核心特征
+- 生成碾压式引力领域，将目标钉死并撕裂结构体。
+- 制造微奇点锚点，用于拒止位移、防御或强制改位。
+- 通过引力压迫扭曲敌人的平衡、瞄准解算与时间感。
+- 允许持有者像走在正常空间里一样穿过自身压力场。
 
-## Combat Use
-Event Horizon Throne is reserved for extreme war scenarios and existential beast events. A mature carrier can drag aircraft from the sky, break mechanized lines without artillery support, and isolate a battlefield so completely that retreat, reinforcement, and orbital fire all become unreliable.
+## 战斗应用
+事件视界王座只会在极端战争与文明级异兽危机中启用。成熟持有者可以把飞行器从天上拖下来，不借炮兵支援就撕开机械化战线，并把整片战场彻底孤立到撤退、增援和轨道支援火力都同时失效。
 
-## Limitations
-- Each activation places severe load on bone density, vascular integrity, and cognition.
-- Civilian zones are nearly impossible to protect once the full domain expands.
-- Prolonged use can leave behind unstable collapse points after combat ends.
-- Effective counterplay usually requires multiple A- or S-rank specialists acting in exact coordination.
+## 局限性
+- 每次激活都会对骨密度、血管完整性和认知系统施加沉重负担。
+- 一旦完整领域扩张，平民区几乎无法被有效保护。
+- 长时间使用后，战场上可能残留不稳定坍缩点。
+- 想要有效对抗，通常需要多名 A 级或 S 级专家精确协同。
 
-## Awakening Cues
-- Nearby objects grow heavier or lighter in irregular pulses.
-- The user's shadow bends against the visible direction of light.
-- Instruments report impossible mass shifts within a short radius of the host.
-- Emotional surges cause furniture, spent shell casings, or rainwater to orbit briefly.
+## 觉醒征兆
+- 附近物体会以不规则脉冲方式忽重忽轻。
+- 影子会沿着违背光源方向的角度弯折。
+- 仪器会在宿主体周围短半径内测到不可能的质量变化。
+- 情绪失控时，家具、弹壳甚至雨滴会短暂环绕其旋转。
 
-## Common Progression
-- Lv.1: The bearer accidentally alters personal gravity and damages surrounding infrastructure.
-- Lv.2: Suppression bursts and short-lived anchor points become battle-usable.
-- Lv.3: Domain shaping enables deliberate control over lanes, fortifications, and airspace.
-- Lv.4: Gravity command extends across districts, sea approaches, or fleet formations.
-- Lv.5: The bloodline becomes a planet-scale military consequence subject to mandatory High Council custody protocols.
+## 常见成长路径
+- Lv.1：会在无意中改变自身重力并损伤周边设施。
+- Lv.2：压制爆发与短效锚点开始具备实战价值。
+- Lv.3：可主动塑形领域，控制通道、防线与空域。
+- Lv.4：引力支配扩展到城区、海上通道甚至舰队编组层面。
+- Lv.5：血脉成长为行星尺度的军事后果体，必须纳入最高议会强制监护协议。

@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Chrono Leviathan Marrow
+## 名称
+时序利维坦之髓
 
-## Rank
+## 等级
 SS
 
-## Category
-Mental Perception / Temporal Interference
+## 分类
+精神感知系 / 时间干涉
 
-## Overview
-Chrono Leviathan Marrow is an SS-rank abyssal bloodline linked to trench entities and folded spacetime scars beneath ocean planets. Federation black archives describe its carriers as fighters who operate ahead of the present, using subjective time dilation, probability reading, and localized temporal drag to survive conflicts that should statistically kill them.
+## 概述
+时序利维坦之髓是一种与海沟实体和海洋星球下方折叠时空裂痕相关的 SS 级深渊血脉。联邦黑档案将其持有者描述为“比现在快半步行动的人”，他们依靠主观时间膨胀、概率读取和局部时滞场，在那些按统计应当必死的冲突中活下来。
 
-## Signature Traits
-- Expands subjective time during danger, enabling near-impossible reaction windows.
-- Imposes slow-time fields that blunt charges, projectiles, and coordinated assaults.
-- Reads branching risk patterns several moves ahead in unstable environments.
-- Preserves memory continuity under paradox shock and temporal feedback.
+## 核心特征
+- 在危险来临时拉长主观时间，获得近乎不可能的反应窗口。
+- 施加缓时场，削弱冲锋、投射物与协同攻击。
+- 在不稳定环境中提前数步读取分岔风险路径。
+- 在悖论冲击与时间反馈下维持记忆连续性。
 
-## Combat Use
-Chrono Leviathan Marrow dominates ambush defense, command duels, relic expeditions, and survival operations in anomaly zones. In squad combat, the bearer acts as a predictive core who redirects allies a heartbeat before disaster and traps faster opponents inside delayed motion windows.
+## 战斗应用
+时序利维坦之髓在反伏击、指挥决斗、遗物远征和异常区求生中拥有统治力。小队作战时，持有者会成为预测核心，在灾难降临前一瞬修正队友位置，并把更快的敌人困进延迟动作窗口。
 
-## Limitations
-- Overuse causes memory fragmentation, emotional flattening, and recurring deja vu loops.
-- Temporal drag becomes unreliable inside major gravity distortion or dimensional turbulence.
-- Long-term carriers often lose patience with ordinary social rhythm and human timing.
-- Reading the wrong branch still leads to fatal commitment if the user acts too early.
+## 局限性
+- 过度使用会带来记忆碎裂、情感平板化和反复的既视感循环。
+- 在重大引力畸变或维度湍流中，时滞场会变得不可靠。
+- 长期持有者常会逐渐失去对普通社交节奏与人类时间感的耐心。
+- 一旦读错分支，过早行动同样会把自己送入致命承诺。
 
-## Awakening Cues
-- Droplets, sparks, or voices seem to pause during life-threatening stress.
-- Hair and fingertips briefly desaturate before normal color returns.
-- Dream journals begin matching future dialogue, routes, or battlefield layouts.
-- The user experiences gaps where minutes pass, yet every action taken was correct.
+## 觉醒征兆
+- 在濒死压力下，水滴、火花甚至说话声会像被按停一样。
+- 头发和指尖会短暂失去色彩后再恢复正常。
+- 梦境记录开始精准对应未来对话、路线或战场布局。
+- 会出现“几分钟消失了，但做出的每个动作都完全正确”的空档体验。
 
-## Common Progression
-- Lv.1: Brief reaction spikes and instinctive danger avoidance begin appearing.
-- Lv.2: Short bursts of subjective slowdown and predictive movement become controllable.
-- Lv.3: Selective time drag can cover squads, kill zones, or confined structures.
-- Lv.4: The bearer maintains stable foresight during anomaly operations and fleet engagements.
-- Lv.5: The gene approaches true temporal tyranny, making the user a strategic-state asset under High Council oversight.
+## 常见成长路径
+- Lv.1：短暂的反应暴涨与本能避险开始显现。
+- Lv.2：可控的主观减速与预测式移动开始成形。
+- Lv.3：选择性时滞可覆盖小队、杀伤区或狭窄结构。
+- Lv.4：在异常区行动与舰队交战中维持稳定前视。
+- Lv.5：逼近真正的时间支配，成为受最高议会监管的战略级国家资产。

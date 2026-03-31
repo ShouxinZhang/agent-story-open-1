@@ -1,38 +1,38 @@
-# Deep Abyss Throne
+# 深渊王座
 
-## Rank
+## 等级
 SSS
 
-## Category
-Elemental Interference / Oceanic Dominion
+## 分类
+元素干涉系 / 海洋支配
 
-## Overview
-Deep Abyss Throne is a sovereign ocean bloodline associated with trench worlds such as Poseidon. It grants the user command over high-pressure water mass, abyssal cold, and leviathan-scale marine biofields. Federation intelligence links this gene to ancient rulers who could subdue deep-sea calamities or bargain with dormant ocean entities below mapped depth.
+## 概述
+深渊王座是一种与波塞冬这类海沟世界相关的主权级海洋血脉。它赋予使用者对高压水体、深渊寒潮和利维坦级海洋生物场的支配权。联邦情报部门认为，这条基因与古代那些能镇压深海灾厄、甚至和测绘深度以下沉睡海洋实体谈判的统治者有关。
 
-## Signature Traits
-- Forms a pressure throne or mantle that multiplies authority in marine environments.
-- Commands tidal walls, trench currents, and water density shifts at impossible scale.
-- Emits an abyssal suppression field that weakens sea beasts and panic-prone enemies.
-- Grants seamless movement and perception in deep ocean zones that crush normal S-rank bodies.
+## 核心特征
+- 形成压强王座或海渊披风，在海洋环境中成倍放大权能。
+- 以不可能的规模支配潮墙、海沟洋流与水体密度变动。
+- 释放深渊压制场，削弱海兽与易受恐慌影响的敌人。
+- 在足以压碎普通 S 级肉体的深海区域中自由移动并维持感知。
 
-## Combat Use
-Deep Abyss Throne turns any coastline, archipelago, or deep-sea theater into home ground. Users can drown fleets, split island chains with pressure surges, and pin colossal organisms under layered gravity-water columns. On worlds like Poseidon, a peak bearer can effectively serve as a one-person strategic navy.
+## 战斗应用
+深渊王座能把任何海岸线、群岛战区或深海战场变成自己的主场。持有者能够淹没舰队、用压强潮汐劈裂岛链，并以层叠的重水柱压住巨型海生体。在波塞冬这类星球上，巅峰持有者几乎可以等同于“一人海军”。
 
-## Limitations
-- Performance drops sharply in arid environments with little accessible water mass.
-- Large-scale tidal manipulation can destabilize civilian habitats and trigger ecological backlash.
-- The gene resonates with ancient sea life; unwanted attention from abyssal entities is common.
-- Users who overextend may suffer memory erosion, emotional flattening, or trance-like sea-calling.
+## 局限性
+- 在缺乏可调动水体的干旱环境中，表现会急剧下滑。
+- 大规模潮汐操控可能破坏平民栖居地并引发生态反噬。
+- 该基因会与古老海生存在共鸣，容易招来深渊实体的注视。
+- 过度透支后，使用者可能出现记忆侵蚀、情感平板或被海潮呼唤般的恍惚状态。
 
-## Awakening Cues
-- Hearing low-frequency oceanic tones even on dry land.
-- Blood pressure and body temperature remaining stable at extreme underwater depths.
-- Unexplained obedience from marine life and aquatic mutated beasts.
-- Rain, mist, and nearby water surfaces reacting to mood shifts.
+## 觉醒征兆
+- 即便身处旱地，也会听见低频海潮回声。
+- 在极端深潜环境中，血压和体温依旧异常稳定。
+- 海洋生物与水系变异兽会表现出难以解释的服从。
+- 雨水、雾气与附近水面会随着情绪波动同步响应。
 
-## Common Progression
-- Lv.1: The user controls currents, dense mist, and minor pressure blades.
-- Lv.2: Abyssal cold and sea-beast intimidation begin to manifest.
-- Lv.3: Regional tidal command and trench-safe physiology become reliable.
-- Lv.4: The bearer can invoke a throne-field that dominates broad coastal zones.
-- Lv.5: The ocean answers as a strategic weapon, and deep-sea calamities may recognize the user as sovereign.
+## 常见成长路径
+- Lv.1: 控制洋流、稠雾和小型压强刃。
+- Lv.2: 深渊寒潮与震慑海兽的威压开始显现。
+- Lv.3: 区域潮汐支配与适应海沟生理变得稳定可靠。
+- Lv.4: 可以展开压倒大范围海岸区的王座场。
+- Lv.5: 海洋会作为战略武器回应召唤，深海灾厄甚至会承认其主权。

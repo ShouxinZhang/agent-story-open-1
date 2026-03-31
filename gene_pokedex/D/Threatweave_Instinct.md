@@ -1,41 +1,41 @@
-# Gene Entry
+# 基因词条
 
-## Title
-Threatweave Instinct
+## 名称
+威胁织感
 
-## Rank
+## 等级
 D
 
-## Category
-Mental Perception / Hostile Intent Mapping
+## 分类
+精神感知系 / 敌意映射
 
-## Overview
-Threatweave Instinct is a D-rank perception bloodline that lets the mind assemble hostile movement, posture, and emotional leakage into a living threat map. It does not read exact thoughts, but it gives users a predatory sense for when violence is about to happen and from where pressure will arrive. This makes it especially prized in peacekeeping, boarding security, and volatile colonial zones.
+## 概述
+威胁织感是一种 D 级感知血脉，能让大脑把敌意动作、身体姿态和情绪泄露整合成一张实时威胁图。它不会读取精确思想，但能赋予使用者一种近乎掠食者的直觉，判断暴力将于何时爆发、压力将从哪个方向袭来。因此，这一血脉在维和、登舰安保和动荡殖民区中极受看重。
 
-## Signature Traits
-- Detects the buildup of immediate hostile intent in nearby targets.
-- Sorts multiple threats by urgency with unusual speed.
-- Notices attack angles forming before a strike fully commits.
-- Maintains situational awareness in chaotic, close-range environments.
+## 核心特征
+- 能察觉附近目标即时敌意的积蓄过程。
+- 可以异常迅速地为多个威胁排出优先级。
+- 在攻击完全落实前就察觉其角度成型。
+- 在混乱近战环境里仍能保持态势感知。
 
-## Combat Use
-Threatweave Instinct shines in squad command, prisoner handling, room clearing, and defensive escort missions. A skilled user can call the first attacker, choose the right interception line, and keep allies from being surrounded. Against lower-rank mobs or frightened militia, that predictive control can collapse a fight before it properly begins.
+## 战斗应用
+威胁织感在小队指挥、押解囚犯、房间清剿和防御护送任务中表现极佳。熟练者能率先喊出第一个攻击者，挑选正确的拦截线路，并避免队友被围死。面对低阶杂兵或惊慌民兵时，这种预测式控制往往能让一场战斗还没真正展开就提前崩盘。
 
-## Limitations
-- Strong false signals from panic, confusion, or mass fear can clutter the threat map.
-- Emotionless drones, automated turrets, and highly disciplined assassins are harder to read.
-- Continuous threat saturation causes migraines, irritability, and sleep disruption.
-- The gene predicts danger but does not replace speed, armor, or marksmanship.
+## 局限性
+- 恐慌、混乱或群体性恐惧制造的强烈假信号会污染威胁图。
+- 无情绪无人机、自动炮台和高度自律的刺客更难被读取。
+- 长时间暴露在高密度威胁环境中会引发偏头痛、烦躁与失眠。
+- 该基因能预示危险，但无法替代速度、护甲或枪法。
 
-## Awakening Cues
-- The user becomes uneasy seconds before arguments turn violent.
-- Crowded stations or military drills create layered "pressure" sensations.
-- Ambush simulations feel easier to survive than statistics suggest.
-- Eye contact with aggressive targets produces immediate directional intuition.
+## 觉醒征兆
+- 争执即将升级为暴力前几秒就会本能不安。
+- 拥挤空间站或军演现场会产生层叠的“压力感”。
+- 伏击模拟的生还表现明显优于统计预期。
+- 与带有攻击性的目标对视时，会立刻产生方向直觉。
 
-## Common Progression
-- Lv.1: The user senses obvious immediate danger at close range.
-- Lv.2: Threat ranking begins to form during small confrontations.
-- Lv.3: Reliable hostile-intent mapping emerges for squad combat.
-- Lv.4: The user tracks multiple attackers and shifting angles under stress.
-- Lv.5: Threatweave reaches elite D-rank battlefield awareness just below true high-tier precognition.
+## 常见成长路径
+- Lv.1：近距离内能感知明显而直接的危险。
+- Lv.2：在小规模冲突中开始形成威胁排序。
+- Lv.3：可靠的敌意映射可支撑小队战斗。
+- Lv.4：在高压状态下追踪多名攻击者和变化角度。
+- Lv.5：达到精英 D 级战场感知层次，只差一步就会触及真正的高阶预知类血脉。
