@@ -1,12 +1,17 @@
 from __future__ import annotations
 
 import json
+import os
 import re
+import subprocess
 from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
 DEPLOY_DIR = ROOT / "deploy"
+PUBLIC_DIR = ROOT / "public"
+PUBLIC_CHAPTER_DIR = PUBLIC_DIR / "chapters"
+PUBLIC_MANIFEST = PUBLIC_DIR / "chapters.json"
 CHAPTER_PATTERN = re.compile(r"^\d+\.md$")
 TITLE_PATTERN = re.compile(r"^#\s+(.+)$", re.MULTILINE)
 
@@ -26,19 +31,28 @@ def chapter_title(markdown: str, chapter_number: int) -> str:
 
 
 def clear_generated_chapters() -> None:
-    for path in DEPLOY_DIR.glob("*.md"):
+    PUBLIC_CHAPTER_DIR.mkdir(parents=True, exist_ok=True)
+
+    for path in PUBLIC_CHAPTER_DIR.glob("*.md"):
         if path.stem.isdigit():
             path.unlink()
 
 
+def npm_command() -> str:
+    return "npm.cmd" if os.name == "nt" else "npm"
+
+
+def build_frontend() -> None:
+    subprocess.run([npm_command(), "run", "build"], cwd=ROOT, check=True)
+
+
 def build() -> None:
-    DEPLOY_DIR.mkdir(parents=True, exist_ok=True)
     clear_generated_chapters()
 
     chapters = []
     for source_path in chapter_paths():
         markdown = source_path.read_text(encoding="utf-8")
-        target_path = DEPLOY_DIR / source_path.name
+        target_path = PUBLIC_CHAPTER_DIR / source_path.name
         target_path.write_text(markdown, encoding="utf-8")
         chapters.append(
             {
@@ -48,11 +62,12 @@ def build() -> None:
             }
         )
 
-    chapters_path = DEPLOY_DIR / "chapters.json"
-    chapters_path.write_text(
+    PUBLIC_MANIFEST.write_text(
         json.dumps(chapters, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
+    DEPLOY_DIR.mkdir(parents=True, exist_ok=True)
+    build_frontend()
 
 
 if __name__ == "__main__":
