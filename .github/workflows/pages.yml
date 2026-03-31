@@ -23,8 +23,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      - name: Build deploy artifact
+        run: python3 scripts/build_deploy.py
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: deploy
       - id: deployment
         uses: actions/deploy-pages@v4

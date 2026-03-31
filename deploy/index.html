@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>多元宇宙系统 — 在线阅读</title>
+<link rel="stylesheet" href="assets/css/site.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ctext y='50' font-size='48'%3E%F0%9F%93%96%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+
+<header>
+  <button class="logo" id="home-link" type="button">📖 多元宇宙系统</button>
+  <nav id="nav"></nav>
+</header>
+
+<main>
+  <div id="content"></div>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+globalThis.marked.setOptions({
+  breaks: true,
+  gfm: true,
+});
+</script>
+<script type="module" src="assets/js/app.js"></script>
+</body>
+</html>
