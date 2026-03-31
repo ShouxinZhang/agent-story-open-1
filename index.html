@@ -4,155 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>多元宇宙系统 — 在线阅读</title>
-<style>
-  :root {
-    --bg: #0d1117;
-    --bg-card: #161b22;
-    --bg-hover: #1c2333;
-    --text: #e6edf3;
-    --text-muted: #8b949e;
-    --accent: #50E3C2;
-    --border: #30363d;
-  }
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: -apple-system, "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    line-height: 1.8;
-  }
-  /* ====== 顶部导航 ====== */
-  header {
-    position: sticky; top: 0; z-index: 100;
-    background: rgba(13,17,23,.85);
-    backdrop-filter: blur(12px);
-    border-bottom: 1px solid var(--border);
-    padding: 12px 24px;
-    display: flex; align-items: center; gap: 16px;
-  }
-  header .logo {
-    font-size: 18px; font-weight: 700;
-    color: var(--accent);
-    cursor: pointer;
-    white-space: nowrap;
-  }
-  header nav { display: flex; gap: 6px; flex-wrap: wrap; }
-  header nav a {
-    padding: 4px 12px; border-radius: 6px;
-    font-size: 13px; color: var(--text-muted);
-    text-decoration: none; transition: .2s;
-  }
-  header nav a:hover, header nav a.active {
-    background: var(--bg-hover);
-    color: var(--text);
-  }
-  header nav a.active {
-    color: var(--accent);
-    background: rgba(80,227,194,.1);
-  }
-  /* ====== 主内容区 ====== */
-  main {
-    max-width: 820px;
-    margin: 0 auto;
-    padding: 32px 20px 80px;
-  }
-  /* ====== 首页章节列表 ====== */
-  .chapter-list { list-style: none; }
-  .chapter-list li {
-    margin-bottom: 12px;
-  }
-  .chapter-list a {
-    display: block;
-    padding: 18px 24px;
-    background: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    color: var(--text);
-    text-decoration: none;
-    font-size: 17px;
-    transition: .2s;
-  }
-  .chapter-list a:hover {
-    border-color: var(--accent);
-    background: var(--bg-hover);
-    transform: translateX(4px);
-  }
-  .chapter-list .ch-num {
-    color: var(--accent);
-    font-weight: 700;
-    margin-right: 8px;
-  }
-  /* ====== Markdown 渲染区 ====== */
-  .md-body h1 {
-    font-size: 28px;
-    margin-bottom: 24px;
-    padding-bottom: 12px;
-    border-bottom: 1px solid var(--border);
-    color: var(--accent);
-  }
-  .md-body h2 { font-size: 22px; margin: 28px 0 14px; color: #c9d1d9; }
-  .md-body h3 { font-size: 18px; margin: 20px 0 10px; color: #c9d1d9; }
-  .md-body p {
-    margin-bottom: 16px;
-    font-size: 16px;
-    text-align: justify;
-  }
-  .md-body blockquote {
-    border-left: 3px solid var(--accent);
-    padding: 12px 20px;
-    margin: 16px 0;
-    background: rgba(80,227,194,.06);
-    border-radius: 0 8px 8px 0;
-    color: var(--text-muted);
-  }
-  .md-body blockquote p { margin-bottom: 6px; }
-  .md-body hr {
-    border: none;
-    border-top: 1px solid var(--border);
-    margin: 32px 0;
-  }
-  .md-body strong { font-weight: 700; }
-  .md-body font { line-height: 2; }
-  /* 底部翻页 */
-  .page-nav {
-    display: flex; justify-content: space-between;
-    margin-top: 48px;
-    padding-top: 20px;
-    border-top: 1px solid var(--border);
-  }
-  .page-nav a {
-    padding: 10px 20px;
-    background: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    color: var(--text);
-    text-decoration: none;
-    font-size: 14px;
-    transition: .2s;
-  }
-  .page-nav a:hover {
-    border-color: var(--accent);
-    color: var(--accent);
-  }
-  .page-nav a.disabled {
-    opacity: .3;
-    pointer-events: none;
-  }
-  /* ====== 移动端适配 ====== */
-  @media (max-width: 600px) {
-    header { padding: 10px 14px; }
-    header .logo { font-size: 15px; }
-    header nav a { font-size: 12px; padding: 3px 8px; }
-    main { padding: 20px 14px 60px; }
-    .md-body h1 { font-size: 22px; }
-    .md-body p { font-size: 15px; }
-  }
-</style>
+<link rel="stylesheet" href="assets/css/site.css">
 </head>
 <body>
 
 <header>
-  <div class="logo" onclick="goHome()">📖 多元宇宙系统</div>
+  <button class="logo" id="home-link" type="button">📖 多元宇宙系统</button>
   <nav id="nav"></nav>
 </header>
 
@@ -160,7 +17,7 @@
   <div id="content"></div>
 </main>
 
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked@4/marked.min.js"></script>
 <script>
 // ===== 章节注册表 =====
 const chapters = [
@@ -168,14 +25,14 @@ const chapters = [
   { file: '2.md', title: '第二章 新手礼包·多元宇宙道具系统' },
 ];
 
-// ===== marked 配置：允许 HTML（<font> 颜色标签） =====
+// ===== marked v4 配置：允许 HTML（<font> 颜色标签直通） =====
 marked.setOptions({
   breaks: true,
   gfm: true,
+  sanitize: false,   // v4 默认 false，明确声明确保 HTML 不被转义
+  mangle: false,
+  headerIds: false,
 });
-// 使用自定义 renderer 确保 HTML 标签透传
-const renderer = new marked.Renderer();
-const defaultParagraph = renderer.paragraph.bind(renderer);
 
 // ===== 路由 =====
 function getHash() {
@@ -216,31 +73,11 @@ async function renderChapter(file) {
     const md = await resp.text();
     // marked 解析并保留内联 HTML
     const html = marked.parse(md);
-    // 翻页导航
-    const prev = idx > 0
-      ? `<a href="#${chapters[idx - 1].file}">← ${chapters[idx - 1].title}</a>`
-      : `<a class="disabled">← 已是第一章</a>`;
-    const next = idx < chapters.length - 1
-      ? `<a href="#${chapters[idx + 1].file}">${chapters[idx + 1].title} →</a>`
-      : `<a class="disabled">已是最新章节 →</a>`;
-    document.getElementById('content').innerHTML =
-      `<div class="md-body">${html}</div>
-       <div class="page-nav">${prev}${next}</div>`;
-    window.scrollTo(0, 0);
-  } catch (e) {
-    document.getElementById('content').innerHTML =
-      `<p style="color:#f85149;">加载失败：${e.message}</p>`;
-  }
-}
-
-function route() {
-  const hash = getHash();
-  if (!hash) renderHome();
-  else renderChapter(hash);
-}
-
-window.addEventListener('hashchange', route);
-route();
-</script>
-</body>
-</html>
+    <script>
+    marked.setOptions({
+      breaks: true,
+      gfm: true,
+    });
+    </script>
+    <script type="module" src="assets/js/app.js"></script>
+    margin-right: 8px;
